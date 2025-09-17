@@ -1,0 +1,412 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2023-09-26 12:01:42,patient_001,enc_001,survey,11323-3,Health status,Good,,text
+2023-09-26 12:01:42,patient_001,enc_001,survey,33747-0,General appearance,Well appearing,,text
+2023-09-26 12:01:42,patient_001,enc_001,survey,72133-2,Smoking status,Current smoker,,text
+2023-09-26 12:01:42,patient_001,enc_001,vital-signs,39156-5,Body mass index,41.8,kg/m2,numeric
+2023-09-26 12:01:42,patient_001,enc_001,vital-signs,8480-6,Systolic blood pressure,103,mmHg,numeric
+2024-08-04 12:01:42,patient_001,enc_002,survey,11323-3,Health status,Poor,,text
+2024-08-04 12:01:42,patient_001,enc_002,vital-signs,8480-6,Systolic blood pressure,100,mmHg,numeric
+2024-08-04 12:01:42,patient_001,enc_002,vital-signs,8462-4,Diastolic blood pressure,66,mmHg,numeric
+2024-08-04 12:01:42,patient_001,enc_002,vital-signs,39156-5,Body mass index,48.8,kg/m2,numeric
+2024-08-04 12:01:42,patient_001,enc_002,vital-signs,29463-7,Body weight,111.8,kg,numeric
+2024-04-26 12:01:42,patient_001,enc_003,survey,72133-2,Smoking status,Current smoker,,text
+2024-04-26 12:01:42,patient_001,enc_003,vital-signs,29463-7,Body weight,89.3,kg,numeric
+2024-04-26 12:01:42,patient_001,enc_003,survey,33747-0,General appearance,Mild distress,,text
+2024-04-26 12:01:42,patient_001,enc_003,vital-signs,39156-5,Body mass index,59.8,kg/m2,numeric
+2024-04-26 12:01:42,patient_001,enc_003,vital-signs,8462-4,Diastolic blood pressure,64,mmHg,numeric
+2024-07-20 12:01:42,patient_001,enc_004,survey,11323-3,Health status,Good,,text
+2024-07-20 12:01:42,patient_001,enc_004,survey,72133-2,Smoking status,Former smoker,,text
+2024-07-20 12:01:42,patient_001,enc_004,vital-signs,8480-6,Systolic blood pressure,123,mmHg,numeric
+2024-07-20 12:01:42,patient_001,enc_004,vital-signs,29463-7,Body weight,105.6,kg,numeric
+2024-07-20 12:01:42,patient_001,enc_004,survey,33747-0,General appearance,Mild distress,,text
+2024-07-20 12:01:42,patient_001,enc_004,vital-signs,39156-5,Body mass index,60.2,kg/m2,numeric
+2024-01-10 12:01:42,patient_002,enc_005,vital-signs,29463-7,Body weight,85.0,kg,numeric
+2024-01-10 12:01:42,patient_002,enc_005,vital-signs,8302-2,Body height,151.8,cm,numeric
+2024-01-10 12:01:42,patient_002,enc_005,vital-signs,8480-6,Systolic blood pressure,108,mmHg,numeric
+2024-01-10 12:01:42,patient_002,enc_005,vital-signs,8462-4,Diastolic blood pressure,81,mmHg,numeric
+2024-01-10 12:01:42,patient_002,enc_005,vital-signs,39156-5,Body mass index,82.4,kg/m2,numeric
+2025-03-05 12:01:42,patient_002,enc_006,vital-signs,29463-7,Body weight,72.3,kg,numeric
+2025-03-05 12:01:42,patient_002,enc_006,vital-signs,8480-6,Systolic blood pressure,125,mmHg,numeric
+2025-03-05 12:01:42,patient_002,enc_006,survey,72133-2,Smoking status,Current smoker,,text
+2025-03-05 12:01:42,patient_002,enc_006,vital-signs,8302-2,Body height,179.6,cm,numeric
+2025-03-05 12:01:42,patient_002,enc_006,survey,11323-3,Health status,Fair,,text
+2025-03-05 12:01:42,patient_002,enc_006,vital-signs,39156-5,Body mass index,63.4,kg/m2,numeric
+2024-08-15 12:01:42,patient_002,enc_007,vital-signs,8480-6,Systolic blood pressure,107,mmHg,numeric
+2024-08-15 12:01:42,patient_002,enc_007,vital-signs,39156-5,Body mass index,98.2,kg/m2,numeric
+2024-08-15 12:01:42,patient_002,enc_007,survey,33747-0,General appearance,No acute distress,,text
+2024-08-15 12:01:42,patient_002,enc_007,vital-signs,29463-7,Body weight,71.5,kg,numeric
+2024-08-15 12:01:42,patient_002,enc_007,survey,11323-3,Health status,Poor,,text
+2024-08-15 12:01:42,patient_002,enc_007,survey,72133-2,Smoking status,Current smoker,,text
+2025-07-16 12:01:42,patient_003,enc_008,survey,11323-3,Health status,Poor,,text
+2025-07-16 12:01:42,patient_003,enc_008,vital-signs,29463-7,Body weight,90.4,kg,numeric
+2025-07-16 12:01:42,patient_003,enc_008,vital-signs,8462-4,Diastolic blood pressure,63,mmHg,numeric
+2025-08-07 12:01:42,patient_003,enc_009,vital-signs,29463-7,Body weight,107.5,kg,numeric
+2025-08-07 12:01:42,patient_003,enc_009,vital-signs,8480-6,Systolic blood pressure,115,mmHg,numeric
+2025-08-07 12:01:42,patient_003,enc_009,vital-signs,8462-4,Diastolic blood pressure,62,mmHg,numeric
+2025-08-07 12:01:42,patient_003,enc_009,survey,72133-2,Smoking status,Current smoker,,text
+2025-08-07 12:01:42,patient_003,enc_009,vital-signs,39156-5,Body mass index,95.3,kg/m2,numeric
+2025-08-07 12:01:42,patient_003,enc_009,survey,33747-0,General appearance,Well appearing,,text
+2025-05-13 12:01:42,patient_003,enc_010,survey,33747-0,General appearance,Well appearing,,text
+2025-05-13 12:01:42,patient_003,enc_010,vital-signs,39156-5,Body mass index,47.2,kg/m2,numeric
+2025-05-13 12:01:42,patient_003,enc_010,vital-signs,29463-7,Body weight,64.3,kg,numeric
+2025-05-13 12:01:42,patient_003,enc_010,survey,72133-2,Smoking status,Current smoker,,text
+2023-12-26 12:01:42,patient_003,enc_011,survey,33747-0,General appearance,Mild distress,,text
+2023-12-26 12:01:42,patient_003,enc_011,vital-signs,8462-4,Diastolic blood pressure,90,mmHg,numeric
+2023-12-26 12:01:42,patient_003,enc_011,vital-signs,8302-2,Body height,171.0,cm,numeric
+2023-12-26 12:01:42,patient_003,enc_011,vital-signs,8480-6,Systolic blood pressure,120,mmHg,numeric
+2023-12-26 12:01:42,patient_003,enc_011,survey,72133-2,Smoking status,Never smoker,,text
+2023-12-26 12:01:42,patient_003,enc_011,vital-signs,29463-7,Body weight,82.2,kg,numeric
+2025-08-12 12:01:42,patient_004,enc_012,vital-signs,8462-4,Diastolic blood pressure,72,mmHg,numeric
+2025-08-12 12:01:42,patient_004,enc_012,survey,11323-3,Health status,Good,,text
+2025-08-12 12:01:42,patient_004,enc_012,survey,72133-2,Smoking status,Former smoker,,text
+2025-08-12 12:01:42,patient_004,enc_012,vital-signs,29463-7,Body weight,89.1,kg,numeric
+2025-08-12 12:01:42,patient_004,enc_012,vital-signs,39156-5,Body mass index,30.2,kg/m2,numeric
+2025-02-16 12:01:42,patient_004,enc_013,vital-signs,8480-6,Systolic blood pressure,130,mmHg,numeric
+2025-02-16 12:01:42,patient_004,enc_013,vital-signs,8462-4,Diastolic blood pressure,82,mmHg,numeric
+2025-02-16 12:01:42,patient_004,enc_013,vital-signs,8302-2,Body height,172.4,cm,numeric
+2025-02-16 12:01:42,patient_004,enc_013,vital-signs,39156-5,Body mass index,94.1,kg/m2,numeric
+2025-02-16 12:01:42,patient_004,enc_013,vital-signs,29463-7,Body weight,100.5,kg,numeric
+2024-11-03 12:01:42,patient_004,enc_014,vital-signs,8302-2,Body height,185.8,cm,numeric
+2024-11-03 12:01:42,patient_004,enc_014,vital-signs,8480-6,Systolic blood pressure,125,mmHg,numeric
+2024-11-03 12:01:42,patient_004,enc_014,vital-signs,8462-4,Diastolic blood pressure,82,mmHg,numeric
+2024-11-03 12:01:42,patient_004,enc_014,survey,72133-2,Smoking status,Never smoker,,text
+2024-11-03 12:01:42,patient_004,enc_014,vital-signs,39156-5,Body mass index,36.1,kg/m2,numeric
+2024-03-11 12:01:42,patient_004,enc_015,vital-signs,8302-2,Body height,158.6,cm,numeric
+2024-03-11 12:01:42,patient_004,enc_015,vital-signs,29463-7,Body weight,108.0,kg,numeric
+2024-03-11 12:01:42,patient_004,enc_015,vital-signs,39156-5,Body mass index,34.4,kg/m2,numeric
+2024-03-11 12:01:42,patient_004,enc_015,survey,72133-2,Smoking status,Current smoker,,text
+2024-03-11 12:01:42,patient_004,enc_015,vital-signs,8462-4,Diastolic blood pressure,77,mmHg,numeric
+2024-04-24 12:01:42,patient_005,enc_016,vital-signs,8302-2,Body height,159.6,cm,numeric
+2024-04-24 12:01:42,patient_005,enc_016,vital-signs,8480-6,Systolic blood pressure,103,mmHg,numeric
+2024-04-24 12:01:42,patient_005,enc_016,vital-signs,8462-4,Diastolic blood pressure,93,mmHg,numeric
+2024-04-24 12:01:42,patient_005,enc_016,survey,72133-2,Smoking status,Never smoker,,text
+2024-06-19 12:01:42,patient_005,enc_017,survey,33747-0,General appearance,No acute distress,,text
+2024-06-19 12:01:42,patient_005,enc_017,survey,11323-3,Health status,Fair,,text
+2024-06-19 12:01:42,patient_005,enc_017,vital-signs,39156-5,Body mass index,19.0,kg/m2,numeric
+2024-06-19 12:01:42,patient_005,enc_017,vital-signs,29463-7,Body weight,104.0,kg,numeric
+2024-04-30 12:01:42,patient_005,enc_018,vital-signs,29463-7,Body weight,115.5,kg,numeric
+2024-04-30 12:01:42,patient_005,enc_018,vital-signs,39156-5,Body mass index,89.1,kg/m2,numeric
+2024-04-30 12:01:42,patient_005,enc_018,vital-signs,8462-4,Diastolic blood pressure,90,mmHg,numeric
+2024-11-26 12:01:42,patient_006,enc_019,vital-signs,8480-6,Systolic blood pressure,158,mmHg,numeric
+2024-11-26 12:01:42,patient_006,enc_019,vital-signs,29463-7,Body weight,103.8,kg,numeric
+2024-11-26 12:01:42,patient_006,enc_019,survey,72133-2,Smoking status,Current smoker,,text
+2024-11-26 12:01:42,patient_006,enc_019,survey,33747-0,General appearance,No acute distress,,text
+2024-04-19 12:01:42,patient_006,enc_020,survey,33747-0,General appearance,Well appearing,,text
+2024-04-19 12:01:42,patient_006,enc_020,vital-signs,8302-2,Body height,189.9,cm,numeric
+2024-04-19 12:01:42,patient_006,enc_020,vital-signs,39156-5,Body mass index,45.7,kg/m2,numeric
+2024-04-19 12:01:42,patient_006,enc_020,survey,72133-2,Smoking status,Former smoker,,text
+2023-09-20 12:01:42,patient_007,enc_021,vital-signs,8480-6,Systolic blood pressure,136,mmHg,numeric
+2023-09-20 12:01:42,patient_007,enc_021,survey,33747-0,General appearance,No acute distress,,text
+2023-09-20 12:01:42,patient_007,enc_021,survey,72133-2,Smoking status,Never smoker,,text
+2023-09-20 12:01:42,patient_007,enc_021,vital-signs,29463-7,Body weight,115.0,kg,numeric
+2024-07-18 12:01:42,patient_007,enc_022,vital-signs,8480-6,Systolic blood pressure,156,mmHg,numeric
+2024-07-18 12:01:42,patient_007,enc_022,vital-signs,39156-5,Body mass index,94.5,kg/m2,numeric
+2024-07-18 12:01:42,patient_007,enc_022,vital-signs,8462-4,Diastolic blood pressure,92,mmHg,numeric
+2024-07-18 12:01:42,patient_007,enc_022,survey,11323-3,Health status,Fair,,text
+2024-07-18 12:01:42,patient_007,enc_022,survey,72133-2,Smoking status,Former smoker,,text
+2025-08-21 12:01:42,patient_007,enc_023,vital-signs,8302-2,Body height,175.9,cm,numeric
+2025-08-21 12:01:42,patient_007,enc_023,vital-signs,29463-7,Body weight,100.3,kg,numeric
+2025-08-21 12:01:42,patient_007,enc_023,survey,11323-3,Health status,Good,,text
+2025-08-21 12:01:42,patient_007,enc_023,vital-signs,39156-5,Body mass index,76.3,kg/m2,numeric
+2024-08-26 12:01:42,patient_007,enc_024,vital-signs,39156-5,Body mass index,56.4,kg/m2,numeric
+2024-08-26 12:01:42,patient_007,enc_024,vital-signs,8302-2,Body height,153.5,cm,numeric
+2024-08-26 12:01:42,patient_007,enc_024,vital-signs,8480-6,Systolic blood pressure,142,mmHg,numeric
+2024-08-26 12:01:42,patient_007,enc_024,survey,11323-3,Health status,Good,,text
+2024-08-26 12:01:42,patient_007,enc_024,vital-signs,8462-4,Diastolic blood pressure,71,mmHg,numeric
+2023-09-19 12:01:42,patient_008,enc_025,survey,11323-3,Health status,Fair,,text
+2023-09-19 12:01:42,patient_008,enc_025,vital-signs,29463-7,Body weight,76.9,kg,numeric
+2023-09-19 12:01:42,patient_008,enc_025,vital-signs,8302-2,Body height,167.9,cm,numeric
+2023-09-19 12:01:42,patient_008,enc_025,survey,33747-0,General appearance,Mild distress,,text
+2025-05-08 12:01:42,patient_008,enc_026,vital-signs,8480-6,Systolic blood pressure,116,mmHg,numeric
+2025-05-08 12:01:42,patient_008,enc_026,survey,11323-3,Health status,Poor,,text
+2025-05-08 12:01:42,patient_008,enc_026,vital-signs,8462-4,Diastolic blood pressure,83,mmHg,numeric
+2025-05-08 12:01:42,patient_008,enc_026,survey,72133-2,Smoking status,Current smoker,,text
+2025-05-08 12:01:42,patient_008,enc_026,survey,33747-0,General appearance,Well appearing,,text
+2024-01-13 12:01:42,patient_008,enc_027,vital-signs,8302-2,Body height,156.4,cm,numeric
+2024-01-13 12:01:42,patient_008,enc_027,vital-signs,39156-5,Body mass index,71.7,kg/m2,numeric
+2024-01-13 12:01:42,patient_008,enc_027,vital-signs,29463-7,Body weight,114.6,kg,numeric
+2025-03-08 12:01:42,patient_009,enc_028,vital-signs,8302-2,Body height,158.8,cm,numeric
+2025-03-08 12:01:42,patient_009,enc_028,vital-signs,8462-4,Diastolic blood pressure,68,mmHg,numeric
+2025-03-08 12:01:42,patient_009,enc_028,vital-signs,29463-7,Body weight,83.5,kg,numeric
+2025-03-08 12:01:42,patient_009,enc_028,survey,72133-2,Smoking status,Former smoker,,text
+2025-03-08 12:01:42,patient_009,enc_028,survey,11323-3,Health status,Poor,,text
+2024-02-19 12:01:42,patient_009,enc_029,survey,72133-2,Smoking status,Never smoker,,text
+2024-02-19 12:01:42,patient_009,enc_029,vital-signs,8462-4,Diastolic blood pressure,98,mmHg,numeric
+2024-02-19 12:01:42,patient_009,enc_029,vital-signs,8480-6,Systolic blood pressure,155,mmHg,numeric
+2024-02-19 12:01:42,patient_009,enc_029,vital-signs,39156-5,Body mass index,80.9,kg/m2,numeric
+2024-02-19 12:01:42,patient_009,enc_029,vital-signs,8302-2,Body height,171.0,cm,numeric
+2025-08-26 12:01:42,patient_009,enc_030,vital-signs,8302-2,Body height,172.9,cm,numeric
+2025-08-26 12:01:42,patient_009,enc_030,vital-signs,8480-6,Systolic blood pressure,109,mmHg,numeric
+2025-08-26 12:01:42,patient_009,enc_030,survey,33747-0,General appearance,Well appearing,,text
+2025-08-26 12:01:42,patient_009,enc_030,vital-signs,8462-4,Diastolic blood pressure,80,mmHg,numeric
+2025-08-26 12:01:42,patient_009,enc_030,survey,11323-3,Health status,Poor,,text
+2024-05-06 12:01:42,patient_010,enc_031,vital-signs,8302-2,Body height,186.0,cm,numeric
+2024-05-06 12:01:42,patient_010,enc_031,vital-signs,8462-4,Diastolic blood pressure,88,mmHg,numeric
+2024-05-06 12:01:42,patient_010,enc_031,survey,11323-3,Health status,Good,,text
+2024-05-06 12:01:42,patient_010,enc_031,vital-signs,8480-6,Systolic blood pressure,129,mmHg,numeric
+2024-05-06 12:01:42,patient_010,enc_031,vital-signs,39156-5,Body mass index,21.9,kg/m2,numeric
+2024-05-06 12:01:42,patient_010,enc_031,survey,33747-0,General appearance,Mild distress,,text
+2025-04-05 12:01:42,patient_010,enc_032,survey,33747-0,General appearance,Mild distress,,text
+2025-04-05 12:01:42,patient_010,enc_032,vital-signs,8480-6,Systolic blood pressure,152,mmHg,numeric
+2025-04-05 12:01:42,patient_010,enc_032,vital-signs,39156-5,Body mass index,10.3,kg/m2,numeric
+2025-04-05 12:01:42,patient_010,enc_032,vital-signs,29463-7,Body weight,65.3,kg,numeric
+2025-04-05 12:01:42,patient_010,enc_032,survey,11323-3,Health status,Good,,text
+2025-04-05 12:01:42,patient_010,enc_032,vital-signs,8302-2,Body height,151.8,cm,numeric
+2024-07-08 12:01:42,patient_010,enc_033,vital-signs,8302-2,Body height,151.3,cm,numeric
+2024-07-08 12:01:42,patient_010,enc_033,vital-signs,8480-6,Systolic blood pressure,126,mmHg,numeric
+2024-07-08 12:01:42,patient_010,enc_033,survey,33747-0,General appearance,Well appearing,,text
+2024-07-08 12:01:42,patient_010,enc_033,vital-signs,8462-4,Diastolic blood pressure,68,mmHg,numeric
+2024-07-08 12:01:42,patient_010,enc_033,vital-signs,39156-5,Body mass index,78.9,kg/m2,numeric
+2024-11-07 12:01:42,patient_011,enc_034,vital-signs,8462-4,Diastolic blood pressure,94,mmHg,numeric
+2024-11-07 12:01:42,patient_011,enc_034,vital-signs,39156-5,Body mass index,22.0,kg/m2,numeric
+2024-11-07 12:01:42,patient_011,enc_034,survey,72133-2,Smoking status,Former smoker,,text
+2024-11-07 12:01:42,patient_011,enc_034,survey,11323-3,Health status,Good,,text
+2024-11-07 12:01:42,patient_011,enc_034,vital-signs,8480-6,Systolic blood pressure,111,mmHg,numeric
+2024-11-07 12:01:42,patient_011,enc_034,survey,33747-0,General appearance,No acute distress,,text
+2025-05-29 12:01:42,patient_011,enc_035,vital-signs,29463-7,Body weight,82.4,kg,numeric
+2025-05-29 12:01:42,patient_011,enc_035,vital-signs,8462-4,Diastolic blood pressure,94,mmHg,numeric
+2025-05-29 12:01:42,patient_011,enc_035,vital-signs,8302-2,Body height,167.0,cm,numeric
+2025-05-29 12:01:42,patient_011,enc_035,survey,33747-0,General appearance,Mild distress,,text
+2025-05-29 12:01:42,patient_011,enc_035,vital-signs,8480-6,Systolic blood pressure,152,mmHg,numeric
+2025-05-29 12:01:42,patient_011,enc_035,survey,72133-2,Smoking status,Never smoker,,text
+2024-02-20 12:01:42,patient_011,enc_036,survey,11323-3,Health status,Good,,text
+2024-02-20 12:01:42,patient_011,enc_036,vital-signs,29463-7,Body weight,115.6,kg,numeric
+2024-02-20 12:01:42,patient_011,enc_036,vital-signs,8302-2,Body height,179.0,cm,numeric
+2024-02-20 12:01:42,patient_011,enc_036,survey,72133-2,Smoking status,Never smoker,,text
+2025-01-13 12:01:42,patient_012,enc_037,survey,72133-2,Smoking status,Never smoker,,text
+2025-01-13 12:01:42,patient_012,enc_037,vital-signs,8480-6,Systolic blood pressure,113,mmHg,numeric
+2025-01-13 12:01:42,patient_012,enc_037,survey,33747-0,General appearance,Well appearing,,text
+2024-12-11 12:01:42,patient_012,enc_038,survey,33747-0,General appearance,No acute distress,,text
+2024-12-11 12:01:42,patient_012,enc_038,vital-signs,39156-5,Body mass index,73.3,kg/m2,numeric
+2024-12-11 12:01:42,patient_012,enc_038,vital-signs,8480-6,Systolic blood pressure,103,mmHg,numeric
+2023-11-14 12:01:42,patient_013,enc_039,survey,33747-0,General appearance,No acute distress,,text
+2023-11-14 12:01:42,patient_013,enc_039,vital-signs,39156-5,Body mass index,29.6,kg/m2,numeric
+2023-11-14 12:01:42,patient_013,enc_039,survey,72133-2,Smoking status,Never smoker,,text
+2023-11-14 12:01:42,patient_013,enc_039,vital-signs,8302-2,Body height,155.6,cm,numeric
+2024-02-03 12:01:42,patient_013,enc_040,vital-signs,39156-5,Body mass index,62.0,kg/m2,numeric
+2024-02-03 12:01:42,patient_013,enc_040,survey,72133-2,Smoking status,Current smoker,,text
+2024-02-03 12:01:42,patient_013,enc_040,vital-signs,8462-4,Diastolic blood pressure,80,mmHg,numeric
+2024-02-03 12:01:42,patient_013,enc_040,vital-signs,8480-6,Systolic blood pressure,115,mmHg,numeric
+2024-02-03 12:01:42,patient_013,enc_040,vital-signs,29463-7,Body weight,71.1,kg,numeric
+2024-04-13 12:01:42,patient_014,enc_041,vital-signs,39156-5,Body mass index,15.5,kg/m2,numeric
+2024-04-13 12:01:42,patient_014,enc_041,survey,11323-3,Health status,Poor,,text
+2024-04-13 12:01:42,patient_014,enc_041,vital-signs,29463-7,Body weight,111.6,kg,numeric
+2024-04-13 12:01:42,patient_014,enc_041,vital-signs,8462-4,Diastolic blood pressure,71,mmHg,numeric
+2024-10-12 12:01:42,patient_014,enc_042,survey,11323-3,Health status,Fair,,text
+2024-10-12 12:01:42,patient_014,enc_042,survey,33747-0,General appearance,Mild distress,,text
+2024-10-12 12:01:42,patient_014,enc_042,vital-signs,29463-7,Body weight,60.4,kg,numeric
+2024-10-12 12:01:42,patient_014,enc_042,vital-signs,39156-5,Body mass index,43.9,kg/m2,numeric
+2024-10-12 12:01:42,patient_014,enc_042,vital-signs,8462-4,Diastolic blood pressure,94,mmHg,numeric
+2024-10-12 12:01:42,patient_014,enc_042,vital-signs,8480-6,Systolic blood pressure,130,mmHg,numeric
+2024-01-27 12:01:42,patient_014,enc_043,vital-signs,39156-5,Body mass index,82.5,kg/m2,numeric
+2024-01-27 12:01:42,patient_014,enc_043,vital-signs,29463-7,Body weight,114.0,kg,numeric
+2024-01-27 12:01:42,patient_014,enc_043,vital-signs,8462-4,Diastolic blood pressure,95,mmHg,numeric
+2024-01-27 12:01:42,patient_014,enc_043,vital-signs,8302-2,Body height,166.5,cm,numeric
+2024-05-14 12:01:42,patient_015,enc_044,vital-signs,29463-7,Body weight,95.3,kg,numeric
+2024-05-14 12:01:42,patient_015,enc_044,vital-signs,39156-5,Body mass index,93.0,kg/m2,numeric
+2024-05-14 12:01:42,patient_015,enc_044,vital-signs,8302-2,Body height,183.9,cm,numeric
+2024-05-14 12:01:42,patient_015,enc_044,survey,11323-3,Health status,Good,,text
+2024-05-14 12:01:42,patient_015,enc_044,vital-signs,8462-4,Diastolic blood pressure,94,mmHg,numeric
+2024-05-14 12:01:42,patient_015,enc_044,survey,72133-2,Smoking status,Current smoker,,text
+2023-11-27 12:01:42,patient_015,enc_045,survey,33747-0,General appearance,No acute distress,,text
+2023-11-27 12:01:42,patient_015,enc_045,vital-signs,29463-7,Body weight,52.8,kg,numeric
+2023-11-27 12:01:42,patient_015,enc_045,vital-signs,39156-5,Body mass index,16.6,kg/m2,numeric
+2023-11-27 12:01:42,patient_015,enc_045,vital-signs,8480-6,Systolic blood pressure,151,mmHg,numeric
+2024-10-05 12:01:42,patient_016,enc_046,survey,11323-3,Health status,Good,,text
+2024-10-05 12:01:42,patient_016,enc_046,vital-signs,8302-2,Body height,158.5,cm,numeric
+2024-10-05 12:01:42,patient_016,enc_046,vital-signs,29463-7,Body weight,63.3,kg,numeric
+2024-10-05 12:01:42,patient_016,enc_046,vital-signs,8462-4,Diastolic blood pressure,67,mmHg,numeric
+2024-02-22 12:01:42,patient_016,enc_047,vital-signs,39156-5,Body mass index,59.7,kg/m2,numeric
+2024-02-22 12:01:42,patient_016,enc_047,vital-signs,8462-4,Diastolic blood pressure,78,mmHg,numeric
+2024-02-22 12:01:42,patient_016,enc_047,vital-signs,8480-6,Systolic blood pressure,124,mmHg,numeric
+2024-02-22 12:01:42,patient_016,enc_047,vital-signs,8302-2,Body height,168.7,cm,numeric
+2024-02-22 12:01:42,patient_016,enc_047,survey,11323-3,Health status,Poor,,text
+2024-02-22 12:01:42,patient_016,enc_047,survey,33747-0,General appearance,Mild distress,,text
+2024-03-30 12:01:42,patient_017,enc_048,vital-signs,8480-6,Systolic blood pressure,106,mmHg,numeric
+2024-03-30 12:01:42,patient_017,enc_048,vital-signs,29463-7,Body weight,106.2,kg,numeric
+2024-03-30 12:01:42,patient_017,enc_048,survey,11323-3,Health status,Poor,,text
+2024-03-30 12:01:42,patient_017,enc_048,vital-signs,39156-5,Body mass index,52.3,kg/m2,numeric
+2024-03-30 12:01:42,patient_017,enc_048,vital-signs,8462-4,Diastolic blood pressure,80,mmHg,numeric
+2023-12-10 12:01:42,patient_017,enc_049,vital-signs,8462-4,Diastolic blood pressure,96,mmHg,numeric
+2023-12-10 12:01:42,patient_017,enc_049,vital-signs,29463-7,Body weight,110.5,kg,numeric
+2023-12-10 12:01:42,patient_017,enc_049,vital-signs,39156-5,Body mass index,76.7,kg/m2,numeric
+2023-12-10 12:01:42,patient_017,enc_049,survey,33747-0,General appearance,Well appearing,,text
+2024-11-17 12:01:42,patient_017,enc_050,survey,72133-2,Smoking status,Never smoker,,text
+2024-11-17 12:01:42,patient_017,enc_050,vital-signs,29463-7,Body weight,76.6,kg,numeric
+2024-11-17 12:01:42,patient_017,enc_050,vital-signs,8302-2,Body height,183.3,cm,numeric
+2024-11-17 12:01:42,patient_017,enc_050,vital-signs,8462-4,Diastolic blood pressure,91,mmHg,numeric
+2024-11-17 12:01:42,patient_017,enc_050,survey,11323-3,Health status,Poor,,text
+2023-09-12 12:01:42,patient_018,enc_051,vital-signs,8480-6,Systolic blood pressure,110,mmHg,numeric
+2023-09-12 12:01:42,patient_018,enc_051,survey,72133-2,Smoking status,Current smoker,,text
+2023-09-12 12:01:42,patient_018,enc_051,vital-signs,39156-5,Body mass index,81.5,kg/m2,numeric
+2023-09-12 12:01:42,patient_018,enc_051,vital-signs,8462-4,Diastolic blood pressure,70,mmHg,numeric
+2023-09-12 12:01:42,patient_018,enc_051,survey,11323-3,Health status,Good,,text
+2025-05-14 12:01:42,patient_018,enc_052,vital-signs,29463-7,Body weight,116.2,kg,numeric
+2025-05-14 12:01:42,patient_018,enc_052,vital-signs,8480-6,Systolic blood pressure,142,mmHg,numeric
+2025-05-14 12:01:42,patient_018,enc_052,vital-signs,8462-4,Diastolic blood pressure,63,mmHg,numeric
+2025-05-14 12:01:42,patient_018,enc_052,survey,33747-0,General appearance,Well appearing,,text
+2025-05-14 12:01:42,patient_018,enc_052,survey,72133-2,Smoking status,Former smoker,,text
+2025-05-14 12:01:42,patient_018,enc_052,vital-signs,39156-5,Body mass index,22.4,kg/m2,numeric
+2023-09-16 12:01:42,patient_019,enc_053,vital-signs,8302-2,Body height,158.7,cm,numeric
+2023-09-16 12:01:42,patient_019,enc_053,vital-signs,8462-4,Diastolic blood pressure,89,mmHg,numeric
+2023-09-16 12:01:42,patient_019,enc_053,survey,11323-3,Health status,Fair,,text
+2023-09-16 12:01:42,patient_019,enc_053,survey,33747-0,General appearance,Well appearing,,text
+2024-08-11 12:01:42,patient_019,enc_054,survey,11323-3,Health status,Good,,text
+2024-08-11 12:01:42,patient_019,enc_054,survey,33747-0,General appearance,No acute distress,,text
+2024-08-11 12:01:42,patient_019,enc_054,survey,72133-2,Smoking status,Current smoker,,text
+2024-08-11 12:01:42,patient_019,enc_054,vital-signs,8480-6,Systolic blood pressure,117,mmHg,numeric
+2024-08-11 12:01:42,patient_019,enc_054,vital-signs,39156-5,Body mass index,58.2,kg/m2,numeric
+2024-08-11 12:01:42,patient_019,enc_054,vital-signs,8462-4,Diastolic blood pressure,78,mmHg,numeric
+2024-07-10 12:01:42,patient_019,enc_055,survey,72133-2,Smoking status,Never smoker,,text
+2024-07-10 12:01:42,patient_019,enc_055,survey,11323-3,Health status,Good,,text
+2024-07-10 12:01:42,patient_019,enc_055,vital-signs,8302-2,Body height,171.0,cm,numeric
+2024-01-15 12:01:42,patient_019,enc_056,vital-signs,39156-5,Body mass index,83.4,kg/m2,numeric
+2024-01-15 12:01:42,patient_019,enc_056,vital-signs,8480-6,Systolic blood pressure,117,mmHg,numeric
+2024-01-15 12:01:42,patient_019,enc_056,survey,72133-2,Smoking status,Former smoker,,text
+2024-01-15 12:01:42,patient_019,enc_056,vital-signs,29463-7,Body weight,55.5,kg,numeric
+2024-02-20 12:01:42,patient_020,enc_057,survey,11323-3,Health status,Good,,text
+2024-02-20 12:01:42,patient_020,enc_057,vital-signs,8480-6,Systolic blood pressure,141,mmHg,numeric
+2024-02-20 12:01:42,patient_020,enc_057,vital-signs,8302-2,Body height,189.7,cm,numeric
+2024-02-20 12:01:42,patient_020,enc_057,vital-signs,8462-4,Diastolic blood pressure,62,mmHg,numeric
+2024-02-20 12:01:42,patient_020,enc_057,vital-signs,29463-7,Body weight,56.5,kg,numeric
+2024-02-20 12:01:42,patient_020,enc_057,vital-signs,39156-5,Body mass index,44.1,kg/m2,numeric
+2025-01-06 12:01:42,patient_020,enc_058,survey,33747-0,General appearance,Mild distress,,text
+2025-01-06 12:01:42,patient_020,enc_058,vital-signs,8462-4,Diastolic blood pressure,81,mmHg,numeric
+2025-01-06 12:01:42,patient_020,enc_058,survey,11323-3,Health status,Poor,,text
+2025-01-06 12:01:42,patient_020,enc_058,vital-signs,8302-2,Body height,189.1,cm,numeric
+2025-01-06 12:01:42,patient_020,enc_058,survey,72133-2,Smoking status,Never smoker,,text
+2025-01-06 12:01:42,patient_020,enc_058,vital-signs,8480-6,Systolic blood pressure,157,mmHg,numeric
+2024-05-11 12:01:42,patient_020,enc_059,vital-signs,39156-5,Body mass index,89.9,kg/m2,numeric
+2024-05-11 12:01:42,patient_020,enc_059,vital-signs,8302-2,Body height,169.0,cm,numeric
+2024-05-11 12:01:42,patient_020,enc_059,vital-signs,8462-4,Diastolic blood pressure,62,mmHg,numeric
+2024-04-18 12:01:42,patient_021,enc_060,vital-signs,8480-6,Systolic blood pressure,142,mmHg,numeric
+2024-04-18 12:01:42,patient_021,enc_060,survey,11323-3,Health status,Good,,text
+2024-04-18 12:01:42,patient_021,enc_060,survey,72133-2,Smoking status,Never smoker,,text
+2024-06-14 12:01:42,patient_021,enc_061,survey,33747-0,General appearance,Well appearing,,text
+2024-06-14 12:01:42,patient_021,enc_061,vital-signs,8302-2,Body height,162.0,cm,numeric
+2024-06-14 12:01:42,patient_021,enc_061,vital-signs,8480-6,Systolic blood pressure,136,mmHg,numeric
+2024-06-14 12:01:42,patient_021,enc_061,survey,72133-2,Smoking status,Never smoker,,text
+2024-06-14 12:01:42,patient_021,enc_061,vital-signs,39156-5,Body mass index,61.0,kg/m2,numeric
+2025-06-23 12:01:42,patient_022,enc_062,vital-signs,8462-4,Diastolic blood pressure,82,mmHg,numeric
+2025-06-23 12:01:42,patient_022,enc_062,vital-signs,39156-5,Body mass index,14.8,kg/m2,numeric
+2025-06-23 12:01:42,patient_022,enc_062,survey,11323-3,Health status,Fair,,text
+2025-06-23 12:01:42,patient_022,enc_062,vital-signs,8302-2,Body height,159.3,cm,numeric
+2025-06-23 12:01:42,patient_022,enc_062,survey,33747-0,General appearance,Well appearing,,text
+2025-06-23 12:01:42,patient_022,enc_062,vital-signs,29463-7,Body weight,73.8,kg,numeric
+2024-10-06 12:01:42,patient_022,enc_063,vital-signs,8462-4,Diastolic blood pressure,74,mmHg,numeric
+2024-10-06 12:01:42,patient_022,enc_063,survey,33747-0,General appearance,Mild distress,,text
+2024-10-06 12:01:42,patient_022,enc_063,survey,11323-3,Health status,Poor,,text
+2024-10-06 12:01:42,patient_022,enc_063,vital-signs,29463-7,Body weight,115.9,kg,numeric
+2024-10-06 12:01:42,patient_022,enc_063,vital-signs,39156-5,Body mass index,48.9,kg/m2,numeric
+2024-10-06 12:01:42,patient_022,enc_063,vital-signs,8302-2,Body height,177.2,cm,numeric
+2024-03-02 12:01:42,patient_023,enc_064,vital-signs,8302-2,Body height,152.9,cm,numeric
+2024-03-02 12:01:42,patient_023,enc_064,survey,72133-2,Smoking status,Former smoker,,text
+2024-03-02 12:01:42,patient_023,enc_064,vital-signs,8480-6,Systolic blood pressure,109,mmHg,numeric
+2024-03-02 12:01:42,patient_023,enc_064,vital-signs,29463-7,Body weight,76.6,kg,numeric
+2024-03-02 12:01:42,patient_023,enc_064,survey,11323-3,Health status,Poor,,text
+2024-03-02 12:01:42,patient_023,enc_064,vital-signs,8462-4,Diastolic blood pressure,69,mmHg,numeric
+2025-01-18 12:01:42,patient_023,enc_065,vital-signs,8462-4,Diastolic blood pressure,88,mmHg,numeric
+2025-01-18 12:01:42,patient_023,enc_065,vital-signs,29463-7,Body weight,75.2,kg,numeric
+2025-01-18 12:01:42,patient_023,enc_065,survey,33747-0,General appearance,Mild distress,,text
+2025-01-18 12:01:42,patient_023,enc_065,survey,11323-3,Health status,Good,,text
+2025-01-18 12:01:42,patient_023,enc_065,vital-signs,8480-6,Systolic blood pressure,108,mmHg,numeric
+2025-01-18 12:01:42,patient_023,enc_065,vital-signs,8302-2,Body height,153.5,cm,numeric
+2025-05-28 12:01:42,patient_023,enc_066,survey,11323-3,Health status,Good,,text
+2025-05-28 12:01:42,patient_023,enc_066,vital-signs,8480-6,Systolic blood pressure,105,mmHg,numeric
+2025-05-28 12:01:42,patient_023,enc_066,survey,72133-2,Smoking status,Former smoker,,text
+2025-05-28 12:01:42,patient_023,enc_066,vital-signs,8462-4,Diastolic blood pressure,95,mmHg,numeric
+2025-05-28 12:01:42,patient_023,enc_066,vital-signs,39156-5,Body mass index,18.4,kg/m2,numeric
+2025-05-28 12:01:42,patient_023,enc_066,survey,33747-0,General appearance,No acute distress,,text
+2024-11-11 12:01:42,patient_024,enc_067,survey,72133-2,Smoking status,Never smoker,,text
+2024-11-11 12:01:42,patient_024,enc_067,survey,33747-0,General appearance,No acute distress,,text
+2024-11-11 12:01:42,patient_024,enc_067,vital-signs,29463-7,Body weight,113.1,kg,numeric
+2024-11-11 12:01:42,patient_024,enc_067,vital-signs,39156-5,Body mass index,91.5,kg/m2,numeric
+2024-11-11 12:01:42,patient_024,enc_067,vital-signs,8480-6,Systolic blood pressure,115,mmHg,numeric
+2025-03-07 12:01:42,patient_024,enc_068,survey,72133-2,Smoking status,Former smoker,,text
+2025-03-07 12:01:42,patient_024,enc_068,vital-signs,8302-2,Body height,160.7,cm,numeric
+2025-03-07 12:01:42,patient_024,enc_068,survey,11323-3,Health status,Good,,text
+2025-03-07 12:01:42,patient_024,enc_068,vital-signs,29463-7,Body weight,54.4,kg,numeric
+2024-01-19 12:01:42,patient_025,enc_069,vital-signs,8480-6,Systolic blood pressure,116,mmHg,numeric
+2024-01-19 12:01:42,patient_025,enc_069,vital-signs,39156-5,Body mass index,95.0,kg/m2,numeric
+2024-01-19 12:01:42,patient_025,enc_069,vital-signs,29463-7,Body weight,100.5,kg,numeric
+2024-01-19 12:01:42,patient_025,enc_069,survey,72133-2,Smoking status,Former smoker,,text
+2024-01-19 12:01:42,patient_025,enc_069,survey,33747-0,General appearance,No acute distress,,text
+2024-01-19 12:01:42,patient_025,enc_069,vital-signs,8302-2,Body height,174.7,cm,numeric
+2024-05-19 12:01:42,patient_025,enc_070,vital-signs,8302-2,Body height,183.7,cm,numeric
+2024-05-19 12:01:42,patient_025,enc_070,survey,11323-3,Health status,Fair,,text
+2024-05-19 12:01:42,patient_025,enc_070,vital-signs,29463-7,Body weight,106.3,kg,numeric
+2024-05-19 12:01:42,patient_025,enc_070,survey,33747-0,General appearance,Mild distress,,text
+2024-05-19 12:01:42,patient_025,enc_070,vital-signs,39156-5,Body mass index,49.6,kg/m2,numeric
+2024-05-19 12:01:42,patient_025,enc_070,survey,72133-2,Smoking status,Former smoker,,text
+2024-01-15 12:01:42,patient_025,enc_071,vital-signs,8480-6,Systolic blood pressure,130,mmHg,numeric
+2024-01-15 12:01:42,patient_025,enc_071,vital-signs,29463-7,Body weight,72.0,kg,numeric
+2024-01-15 12:01:42,patient_025,enc_071,survey,11323-3,Health status,Fair,,text
+2024-01-15 12:01:42,patient_025,enc_071,vital-signs,8302-2,Body height,188.7,cm,numeric
+2024-05-01 12:01:42,patient_026,enc_072,survey,11323-3,Health status,Fair,,text
+2024-05-01 12:01:42,patient_026,enc_072,vital-signs,8480-6,Systolic blood pressure,152,mmHg,numeric
+2024-05-01 12:01:42,patient_026,enc_072,vital-signs,8302-2,Body height,181.4,cm,numeric
+2024-05-01 12:01:42,patient_026,enc_072,vital-signs,29463-7,Body weight,75.6,kg,numeric
+2024-05-01 12:01:42,patient_026,enc_072,vital-signs,39156-5,Body mass index,93.9,kg/m2,numeric
+2024-11-09 12:01:42,patient_026,enc_073,vital-signs,29463-7,Body weight,116.7,kg,numeric
+2024-11-09 12:01:42,patient_026,enc_073,vital-signs,8462-4,Diastolic blood pressure,89,mmHg,numeric
+2024-11-09 12:01:42,patient_026,enc_073,vital-signs,8480-6,Systolic blood pressure,160,mmHg,numeric
+2024-11-09 12:01:42,patient_026,enc_073,survey,33747-0,General appearance,No acute distress,,text
+2025-07-19 12:01:42,patient_026,enc_074,survey,11323-3,Health status,Fair,,text
+2025-07-19 12:01:42,patient_026,enc_074,survey,72133-2,Smoking status,Current smoker,,text
+2025-07-19 12:01:42,patient_026,enc_074,vital-signs,29463-7,Body weight,85.0,kg,numeric
+2025-07-19 12:01:42,patient_026,enc_074,survey,33747-0,General appearance,No acute distress,,text
+2023-12-26 12:01:42,patient_027,enc_075,vital-signs,39156-5,Body mass index,81.0,kg/m2,numeric
+2023-12-26 12:01:42,patient_027,enc_075,vital-signs,29463-7,Body weight,55.2,kg,numeric
+2023-12-26 12:01:42,patient_027,enc_075,vital-signs,8462-4,Diastolic blood pressure,98,mmHg,numeric
+2023-12-26 12:01:42,patient_027,enc_075,vital-signs,8302-2,Body height,169.2,cm,numeric
+2023-12-26 12:01:42,patient_027,enc_075,survey,11323-3,Health status,Fair,,text
+2023-11-02 12:01:42,patient_027,enc_076,survey,33747-0,General appearance,Well appearing,,text
+2023-11-02 12:01:42,patient_027,enc_076,survey,72133-2,Smoking status,Current smoker,,text
+2023-11-02 12:01:42,patient_027,enc_076,vital-signs,29463-7,Body weight,96.5,kg,numeric
+2023-11-02 12:01:42,patient_027,enc_076,vital-signs,8480-6,Systolic blood pressure,110,mmHg,numeric
+2023-11-02 12:01:42,patient_027,enc_076,survey,11323-3,Health status,Poor,,text
+2023-11-02 12:01:42,patient_027,enc_076,vital-signs,39156-5,Body mass index,65.1,kg/m2,numeric
+2025-08-04 12:01:42,patient_028,enc_077,vital-signs,8462-4,Diastolic blood pressure,76,mmHg,numeric
+2025-08-04 12:01:42,patient_028,enc_077,survey,72133-2,Smoking status,Never smoker,,text
+2025-08-04 12:01:42,patient_028,enc_077,vital-signs,39156-5,Body mass index,56.0,kg/m2,numeric
+2025-08-04 12:01:42,patient_028,enc_077,survey,33747-0,General appearance,No acute distress,,text
+2025-08-04 12:01:42,patient_028,enc_077,vital-signs,8480-6,Systolic blood pressure,135,mmHg,numeric
+2025-08-04 12:01:42,patient_028,enc_077,survey,11323-3,Health status,Poor,,text
+2024-07-09 12:01:42,patient_028,enc_078,survey,11323-3,Health status,Poor,,text
+2024-07-09 12:01:42,patient_028,enc_078,vital-signs,29463-7,Body weight,91.2,kg,numeric
+2024-07-09 12:01:42,patient_028,enc_078,vital-signs,39156-5,Body mass index,55.0,kg/m2,numeric
+2024-07-09 12:01:42,patient_028,enc_078,vital-signs,8462-4,Diastolic blood pressure,82,mmHg,numeric
+2024-04-12 12:01:42,patient_028,enc_079,survey,11323-3,Health status,Fair,,text
+2024-04-12 12:01:42,patient_028,enc_079,survey,33747-0,General appearance,Well appearing,,text
+2024-04-12 12:01:42,patient_028,enc_079,vital-signs,29463-7,Body weight,58.1,kg,numeric
+2024-09-26 12:01:42,patient_029,enc_080,vital-signs,8462-4,Diastolic blood pressure,73,mmHg,numeric
+2024-09-26 12:01:42,patient_029,enc_080,vital-signs,29463-7,Body weight,86.5,kg,numeric
+2024-09-26 12:01:42,patient_029,enc_080,survey,72133-2,Smoking status,Former smoker,,text
+2024-09-26 12:01:42,patient_029,enc_080,vital-signs,39156-5,Body mass index,52.9,kg/m2,numeric
+2023-10-18 12:01:42,patient_029,enc_081,survey,11323-3,Health status,Good,,text
+2023-10-18 12:01:42,patient_029,enc_081,vital-signs,29463-7,Body weight,51.6,kg,numeric
+2023-10-18 12:01:42,patient_029,enc_081,survey,33747-0,General appearance,Mild distress,,text
+2023-10-18 12:01:42,patient_029,enc_081,survey,72133-2,Smoking status,Current smoker,,text
+2023-10-18 12:01:42,patient_029,enc_081,vital-signs,8462-4,Diastolic blood pressure,66,mmHg,numeric
+2023-10-18 12:01:42,patient_029,enc_081,vital-signs,8480-6,Systolic blood pressure,143,mmHg,numeric
+2024-03-07 12:01:42,patient_029,enc_082,vital-signs,39156-5,Body mass index,24.4,kg/m2,numeric
+2024-03-07 12:01:42,patient_029,enc_082,vital-signs,8480-6,Systolic blood pressure,135,mmHg,numeric
+2024-03-07 12:01:42,patient_029,enc_082,vital-signs,8302-2,Body height,167.1,cm,numeric
+2024-03-07 12:01:42,patient_029,enc_082,survey,72133-2,Smoking status,Former smoker,,text
+2024-08-23 12:01:42,patient_030,enc_083,survey,72133-2,Smoking status,Current smoker,,text
+2024-08-23 12:01:42,patient_030,enc_083,vital-signs,8462-4,Diastolic blood pressure,87,mmHg,numeric
+2024-08-23 12:01:42,patient_030,enc_083,vital-signs,8302-2,Body height,165.8,cm,numeric
+2024-08-23 12:01:42,patient_030,enc_083,survey,11323-3,Health status,Poor,,text
+2024-10-07 12:01:42,patient_030,enc_084,survey,11323-3,Health status,Good,,text
+2024-10-07 12:01:42,patient_030,enc_084,vital-signs,8480-6,Systolic blood pressure,145,mmHg,numeric
+2024-10-07 12:01:42,patient_030,enc_084,vital-signs,39156-5,Body mass index,29.3,kg/m2,numeric
+2024-10-07 12:01:42,patient_030,enc_084,vital-signs,8462-4,Diastolic blood pressure,77,mmHg,numeric
+2024-11-02 12:01:42,patient_030,enc_085,vital-signs,8302-2,Body height,157.5,cm,numeric
+2024-11-02 12:01:42,patient_030,enc_085,survey,72133-2,Smoking status,Former smoker,,text
+2024-11-02 12:01:42,patient_030,enc_085,vital-signs,8480-6,Systolic blood pressure,112,mmHg,numeric
+2024-04-21 12:01:42,patient_030,enc_086,vital-signs,8302-2,Body height,165.5,cm,numeric
+2024-04-21 12:01:42,patient_030,enc_086,vital-signs,29463-7,Body weight,77.5,kg,numeric
+2024-04-21 12:01:42,patient_030,enc_086,vital-signs,8462-4,Diastolic blood pressure,67,mmHg,numeric
+2024-04-21 12:01:42,patient_030,enc_086,vital-signs,39156-5,Body mass index,41.3,kg/m2,numeric
+2024-04-21 12:01:42,patient_030,enc_086,survey,72133-2,Smoking status,Former smoker,,text
+2024-04-21 12:01:42,patient_030,enc_086,vital-signs,8480-6,Systolic blood pressure,139,mmHg,numeric

@@ -1,0 +1,1000 @@
+observation_id,person_id,observation_concept_id,observation_date,observation_datetime,observation_type_concept_id,value_as_number,value_as_string,value_as_concept_id,qualifier_concept_id,unit_concept_id,provider_id,visit_occurrence_id,visit_detail_id,observation_source_value,observation_source_concept_id,unit_source_value,qualifier_source_value,value_source_value,observation_event_id,obs_event_field_concept_id
+1617927609,3452096008,0,2021-09-04,2021-09-04T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,4260683378,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1822573708,3452096008,0,2021-10-09,2021-10-09T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,3760930594,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1986606622,3452096008,0,2021-12-11,2021-12-11T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,3004491610,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1219294995,3452096008,0,2022-02-12,2022-02-12T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,471522110,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3703545903,3452096008,0,2022-05-14,2022-05-14T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,3404051665,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3402559465,3452096008,0,2022-08-13,2022-08-13T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,683855458,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2874190676,3452096008,0,2022-11-12,2022-11-12T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,2558093226,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2016295352,3452096008,0,2023-02-11,2023-02-11T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,3059352622,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3868835264,3452096008,0,2023-08-12,2023-08-12T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,2561605354,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2138889508,3452096008,0,2024-02-10,2024-02-10T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,4156693006,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1660135720,3452096008,0,2024-08-10,2024-08-10T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,2568759064,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1085365585,3452096008,0,2025-02-08,2025-02-08T22:11:45Z,44814722,,Never smoked tobacco (finding),0,0,0,,1956652858,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2694117379,3784769126,0,2015-12-03,2015-12-03T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,3530789017,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2151405798,3784769126,0,2016-06-02,2016-06-02T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,1591438340,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3720107908,3784769126,0,2016-07-28,2016-07-28T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,847305820,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+907601148,3784769126,0,2016-08-18,2016-08-18T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,1752813531,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3749094745,3784769126,0,2016-08-25,2016-08-25T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,2239118063,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1095839717,3784769126,0,2016-12-01,2016-12-01T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,1435797219,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+329100256,3784769126,0,2017-12-07,2017-12-07T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,2416696164,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2567461288,3784769126,0,2018-12-13,2018-12-13T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,722828177,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2277647425,669439415,0,2021-06-02,2021-06-02T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,3585807736,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2845240636,669439415,0,2021-07-07,2021-07-07T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,1788082466,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1575806423,3784769126,0,2019-12-19,2019-12-19T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,957989856,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+761751111,3784769126,0,2020-12-24,2020-12-24T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,3352472575,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2576966573,669439415,0,2021-09-08,2021-09-08T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,1255947137,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1378758530,3784769126,0,2021-12-30,2021-12-30T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,89626455,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+78388954,669439415,0,2021-11-10,2021-11-10T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,2753242351,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1766301796,669439415,0,2022-02-09,2022-02-09T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,1614599864,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2169078369,3784769126,0,2023-01-05,2023-01-05T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,831558834,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+424794052,669439415,0,2022-05-11,2022-05-11T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,2728349203,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2914659382,3784769126,0,2024-01-11,2024-01-11T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,1855165150,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1250321215,3784769126,0,2025-01-16,2025-01-16T18:46:52Z,44814722,,Never smoked tobacco (finding),0,0,0,,2053373985,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+508571473,3784769126,0,2025-01-16,2025-01-16T19:11:04Z,44814721,1.0,,0,0,0,,2053373985,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,1.0,,0
+2592289864,3784769126,0,2025-01-16,2025-01-16T19:54:48Z,44814721,4.0,,0,0,0,,2053373985,,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],0,{score},,4.0,,0
+336552497,669439415,0,2022-08-10,2022-08-10T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,3068513117,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3945192642,669439415,0,2022-11-09,2022-11-09T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,1257479414,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2907612300,669439415,0,2023-05-10,2023-05-10T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,3930320718,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3951573488,669439415,0,2023-11-08,2023-11-08T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,755922585,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2627670302,669439415,0,2024-05-08,2024-05-08T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,2638634714,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2812258044,669439415,0,2024-11-06,2024-11-06T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,1121319804,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2039861708,669439415,0,2025-05-07,2025-05-07T18:48:06Z,44814722,,Never smoked tobacco (finding),0,0,0,,1294451345,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2601160610,1922593523,0,2015-12-20,2015-12-20T03:42:53Z,44814722,,Never smoked tobacco (finding),0,0,0,,364530535,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3565464292,1922593523,0,2016-12-25,2016-12-25T03:42:53Z,44814722,,Never smoked tobacco (finding),0,0,0,,422769559,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+725625909,1922593523,0,2017-12-31,2017-12-31T03:42:53Z,44814722,,Never smoked tobacco (finding),0,0,0,,958513160,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3534095571,1922593523,0,2017-12-31,2017-12-31T04:25:49Z,44814721,2.0,,0,0,0,,958513160,,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],0,{score},,2.0,,0
+1750607420,1922593523,0,2019-01-06,2019-01-06T03:42:53Z,44814722,,Never smoked tobacco (finding),0,0,0,,116341745,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+4122505618,1922593523,0,2019-01-06,2019-01-06T04:19:28Z,44814721,3.0,,0,0,0,,116341745,,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],0,{score},,3.0,,0
+4181159574,1922593523,0,2020-01-12,2020-01-12T03:42:53Z,44814722,,Never smoked tobacco (finding),0,0,0,,3250063083,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1458445148,1922593523,0,2020-01-12,2020-01-12T04:09:38Z,44814721,4.0,,0,0,0,,3250063083,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,4.0,,0
+3255197940,1922593523,0,2021-01-17,2021-01-17T03:42:53Z,44814722,,Never smoked tobacco (finding),0,0,0,,403880030,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3374853190,1922593523,0,2021-01-17,2021-01-17T04:16:18Z,44814721,1.0,,0,0,0,,403880030,,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],0,{score},,1.0,,0
+3904629768,1922593523,0,2022-01-23,2022-01-23T03:42:53Z,44814722,,Never smoked tobacco (finding),0,0,0,,3202287661,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+515938050,1922593523,0,2022-01-23,2022-01-23T04:01:15Z,44814721,1.0,,0,0,0,,3202287661,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,1.0,,0
+3914033058,1922593523,0,2022-01-23,2022-01-23T04:42:14Z,44814721,24.0,,0,0,0,,3202287661,,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],0,{score},,24.0,,0
+1508373140,1922593523,0,2023-01-29,2023-01-29T03:42:53Z,44814722,,Never smoked tobacco (finding),0,0,0,,1067340136,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+927597862,1922593523,0,2023-01-29,2023-01-29T04:08:42Z,44814721,1.0,,0,0,0,,1067340136,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,1.0,,0
+158295264,1922593523,0,2023-01-29,2023-01-29T04:50:57Z,44814721,3.0,,0,0,0,,1067340136,,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],0,{score},,3.0,,0
+834334773,1922593523,0,2024-02-04,2024-02-04T03:42:53Z,44814722,,Never smoked tobacco (finding),0,0,0,,2158873919,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3723741065,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,No,4132135,0,0,,2158873919,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+3051593102,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,Yes,4188539,0,0,,2158873919,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+1508211223,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,No,4132135,0,0,,2158873919,,Are you a refugee?,0,,,No,,0
+3917593292,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,No,4132135,0,0,,2158873919,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+4244651105,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,A little bit,0,0,0,,2158873919,,Stress level,0,,,A little bit,,0
+134698125,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,3 to 5 times a week,0,0,0,,2158873919,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+404307715,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,0,0,0,,2158873919,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,0
+490662638,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,Food,0,0,0,,2158873919,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+2009525728,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,15487.0,,0,0,0,,2158873919,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,15487,,0
+3946966897,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,I choose not to answer this question,0,0,0,,2158873919,,Primary insurance,0,,,I choose not to answer this question,,0
+2104775488,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,Unemployed,0,0,0,,2158873919,,Employment status - current,0,,,Unemployed,,0
+1356154292,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,More than high school,0,0,0,,2158873919,,Highest level of education,0,,,More than high school,,0
+3438828481,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,Carretera Aguilar 64,0,0,0,,2158873919,,Address,0,,,Carretera Aguilar 64,,0
+2242224339,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,Yes,4188539,0,0,,2158873919,,Are you worried about losing your housing?,0,,,Yes,,0
+3071730886,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,I have housing,0,0,0,,2158873919,,Housing status,0,,,I have housing,,0
+2169630628,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,4.0,,0,0,0,,2158873919,,How many people are living or staying at this address?,0,{#},,4.0,,0
+1951741619,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,English,0,0,0,,2158873919,,Preferred language,0,,,English,,0
+1269546781,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,No,4132135,0,0,,2158873919,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+2879180814,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,No,4132135,0,0,,2158873919,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+4219899493,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,White,0,0,0,,2158873919,,Race,0,,,White,,0
+2459302971,1922593523,0,2024-02-04,2024-02-04T04:29:58Z,44814721,,No,4132135,0,0,,2158873919,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2818472303,1922593523,0,2024-02-04,2024-02-04T05:05:06Z,44814721,1.0,,0,0,0,,2158873919,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+469326417,1922593523,0,2025-02-09,2025-02-09T03:42:53Z,44814722,,Never smoked tobacco (finding),0,0,0,,3113469844,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+177628625,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,No,4132135,0,0,,3113469844,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+2866213118,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,Yes,4188539,0,0,,3113469844,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+2903843225,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,No,4132135,0,0,,3113469844,,Are you a refugee?,0,,,No,,0
+3448328199,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,No,4132135,0,0,,3113469844,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+4287554907,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,Somewhat,0,0,0,,3113469844,,Stress level,0,,,Somewhat,,0
+1781588392,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,3 to 5 times a week,0,0,0,,3113469844,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+603501748,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,Yes  it has kept me from medical appointments or from getting my medications,0,0,0,,3113469844,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from medical appointments or from getting my medications,,0
+3417545298,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,Food,0,0,0,,3113469844,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+29495710,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,15487.0,,0,0,0,,3113469844,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,15487,,0
+3362445438,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,I choose not to answer this question,0,0,0,,3113469844,,Primary insurance,0,,,I choose not to answer this question,,0
+3467753451,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,Part-time or temporary work,0,0,0,,3113469844,,Employment status - current,0,,,Part-time or temporary work,,0
+3663056109,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,More than high school,0,0,0,,3113469844,,Highest level of education,0,,,More than high school,,0
+2218588030,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,Carretera Aguilar 64,0,0,0,,3113469844,,Address,0,,,Carretera Aguilar 64,,0
+4234161340,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,Yes,4188539,0,0,,3113469844,,Are you worried about losing your housing?,0,,,Yes,,0
+3245965470,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,I have housing,0,0,0,,3113469844,,Housing status,0,,,I have housing,,0
+4071721507,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,4.0,,0,0,0,,3113469844,,How many people are living or staying at this address?,0,{#},,4.0,,0
+3676473439,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,English,0,0,0,,3113469844,,Preferred language,0,,,English,,0
+2142872890,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,No,4132135,0,0,,3113469844,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+3045547665,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,No,4132135,0,0,,3113469844,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+2425811640,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,White,0,0,0,,3113469844,,Race,0,,,White,,0
+690886704,1922593523,0,2025-02-09,2025-02-09T04:25:20Z,44814721,,No,4132135,0,0,,3113469844,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1144186031,1922593523,0,2025-02-09,2025-02-09T05:00:55Z,44814721,1.0,,0,0,0,,3113469844,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+3874921563,1922593523,0,2025-02-09,2025-02-09T05:33:28Z,44814721,1.0,,0,0,0,,3113469844,,Total score [AUDIT-C],0,{score},,1.0,,0
+4057439801,4250096122,0,2015-07-31,2015-07-31T16:14:15Z,44814722,,Never smoked tobacco (finding),0,0,0,,988639951,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+235629251,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,No,4132135,0,0,,988639951,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+427419833,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,No,4132135,0,0,,988639951,,Do you feel physically and emotionally safe where you currently live?,0,,,No,,0
+3234174823,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,No,4132135,0,0,,988639951,,Are you a refugee?,0,,,No,,0
+3349577930,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,No,4132135,0,0,,988639951,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1354602789,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,A little bit,0,0,0,,988639951,,Stress level,0,,,A little bit,,0
+61547353,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,5 or more times a week,0,0,0,,988639951,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+1300862035,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,No,4132135,0,0,,988639951,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+2955069083,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,Phone,0,0,0,,988639951,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Phone,,0
+1579892430,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,19149.0,,0,0,0,,988639951,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,19149,,0
+2247711080,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,I choose not to answer this question,0,0,0,,988639951,,Primary insurance,0,,,I choose not to answer this question,,0
+185526439,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,Full-time work,0,0,0,,988639951,,Employment status - current,0,,,Full-time work,,0
+40041681,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,Less than high school degree,0,0,0,,988639951,,Highest level of education,0,,,Less than high school degree,,0
+4093033478,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,Camino Díaz 51 Portal 54,0,0,0,,988639951,,Address,0,,,Camino Díaz 51 Portal 54,,0
+442655777,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,Yes,4188539,0,0,,988639951,,Are you worried about losing your housing?,0,,,Yes,,0
+2762761023,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,I have housing,0,0,0,,988639951,,Housing status,0,,,I have housing,,0
+2917232546,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,2.0,,0,0,0,,988639951,,How many people are living or staying at this address?,0,{#},,2.0,,0
+181592000,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,English,0,0,0,,988639951,,Preferred language,0,,,English,,0
+3036799193,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,No,4132135,0,0,,988639951,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+4165299221,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,No,4132135,0,0,,988639951,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+3477986662,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,White,0,0,0,,988639951,,Race,0,,,White,,0
+621859744,4250096122,0,2015-07-31,2015-07-31T17:07:30Z,44814721,,No,4132135,0,0,,988639951,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1455728227,4250096122,0,2015-07-31,2015-07-31T17:33:39Z,44814721,56.0,,0,0,0,,988639951,,Fall risk total [Morse Fall Scale],0,{#},,56.0,,0
+1662454069,4250096122,0,2015-07-31,2015-07-31T17:33:39Z,44814721,,High Risk (MFS Score 50+),0,0,0,,988639951,,Fall risk level [Morse Fall Scale],0,,,High Risk (MFS Score 50+),,0
+702049100,4250096122,0,2015-07-31,2015-07-31T18:10:21Z,44814721,0.0,,0,0,0,,988639951,,Total score [HARK],0,{score},,0.0,,0
+2989189197,4250096122,0,2015-07-31,2015-07-31T18:52:15Z,44814721,2.0,,0,0,0,,988639951,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,2.0,,0
+3678812450,4250096122,0,2018-08-03,2018-08-03T16:14:15Z,44814722,,Never smoked tobacco (finding),0,0,0,,2432680081,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1091096548,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,No,4132135,0,0,,2432680081,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+1502931659,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,Yes,4188539,0,0,,2432680081,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+2923134150,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,No,4132135,0,0,,2432680081,,Are you a refugee?,0,,,No,,0
+3542043397,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,No,4132135,0,0,,2432680081,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+3312083686,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,Not at all,0,0,0,,2432680081,,Stress level,0,,,Not at all,,0
+3689358334,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,3 to 5 times a week,0,0,0,,2432680081,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+3227783015,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,No,4132135,0,0,,2432680081,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+3775635869,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,I choose not to answer this question,0,0,0,,2432680081,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,I choose not to answer this question,,0
+1604015465,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,19149.0,,0,0,0,,2432680081,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,19149,,0
+998890393,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,I choose not to answer this question,0,0,0,,2432680081,,Primary insurance,0,,,I choose not to answer this question,,0
+2141835348,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,Full-time work,0,0,0,,2432680081,,Employment status - current,0,,,Full-time work,,0
+1020879729,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,Less than high school degree,0,0,0,,2432680081,,Highest level of education,0,,,Less than high school degree,,0
+1606407272,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,Camino Díaz 51 Portal 54,0,0,0,,2432680081,,Address,0,,,Camino Díaz 51 Portal 54,,0
+4009421321,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,Yes,4188539,0,0,,2432680081,,Are you worried about losing your housing?,0,,,Yes,,0
+2256681409,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,I have housing,0,0,0,,2432680081,,Housing status,0,,,I have housing,,0
+4008972862,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,2.0,,0,0,0,,2432680081,,How many people are living or staying at this address?,0,{#},,2.0,,0
+1764890953,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,English,0,0,0,,2432680081,,Preferred language,0,,,English,,0
+487356352,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,No,4132135,0,0,,2432680081,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1738128422,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,No,4132135,0,0,,2432680081,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+3543064456,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,White,0,0,0,,2432680081,,Race,0,,,White,,0
+4293145689,4250096122,0,2018-08-03,2018-08-03T17:12:44Z,44814721,,No,4132135,0,0,,2432680081,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+77385236,4250096122,0,2018-08-03,2018-08-03T17:55:55Z,44814721,0.0,,0,0,0,,2432680081,,Total score [HARK],0,{score},,0.0,,0
+3015347860,4250096122,0,2018-08-03,2018-08-03T18:30:36Z,44814721,1.0,,0,0,0,,2432680081,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+2410617595,4250096122,0,2018-08-03,2018-08-03T19:04:26Z,44814721,1.0,,0,0,0,,2432680081,,Total score [DAST-10],0,{score},,1.0,,0
+2743530378,4250096122,0,2020-08-09,2020-08-09T16:14:15Z,44814723,,Increased capillary filling time (finding),0,0,0,,990789140,,Capillary refill [Time] of Nail bed,0,,,Increased capillary filling time (finding),,0
+2252288730,4250096122,0,2021-08-06,2021-08-06T16:14:15Z,44814722,,Never smoked tobacco (finding),0,0,0,,2824218476,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1092484509,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,No,4132135,0,0,,2824218476,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+796105484,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,Yes,4188539,0,0,,2824218476,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+3271451383,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,No,4132135,0,0,,2824218476,,Are you a refugee?,0,,,No,,0
+1260702888,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,No,4132135,0,0,,2824218476,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+251027686,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,Quite a bit,0,0,0,,2824218476,,Stress level,0,,,Quite a bit,,0
+2455671578,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,5 or more times a week,0,0,0,,2824218476,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+3417530407,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,No,4132135,0,0,,2824218476,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+3756628803,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,Medicine or Any Health Care (Medical  Dental  Mental Health  Vision),0,0,0,,2824218476,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Medicine or Any Health Care (Medical  Dental  Mental Health  Vision),,0
+3732133282,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,19149.0,,0,0,0,,2824218476,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,19149,,0
+462322790,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,I choose not to answer this question,0,0,0,,2824218476,,Primary insurance,0,,,I choose not to answer this question,,0
+25359747,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,Full-time work,0,0,0,,2824218476,,Employment status - current,0,,,Full-time work,,0
+1476276776,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,Less than high school degree,0,0,0,,2824218476,,Highest level of education,0,,,Less than high school degree,,0
+531335042,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,Camino Díaz 51 Portal 54,0,0,0,,2824218476,,Address,0,,,Camino Díaz 51 Portal 54,,0
+3567054134,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,Yes,4188539,0,0,,2824218476,,Are you worried about losing your housing?,0,,,Yes,,0
+3984585938,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,I have housing,0,0,0,,2824218476,,Housing status,0,,,I have housing,,0
+1499076380,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,2.0,,0,0,0,,2824218476,,How many people are living or staying at this address?,0,{#},,2.0,,0
+346852555,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,English,0,0,0,,2824218476,,Preferred language,0,,,English,,0
+1345919601,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,No,4132135,0,0,,2824218476,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1364433146,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,No,4132135,0,0,,2824218476,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+3098739573,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,White,0,0,0,,2824218476,,Race,0,,,White,,0
+1158528893,4250096122,0,2021-08-06,2021-08-06T16:47:51Z,44814721,,No,4132135,0,0,,2824218476,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2509850543,4250096122,0,2021-08-06,2021-08-06T17:23:22Z,44814721,1.0,,0,0,0,,2824218476,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+1769365429,4250096122,0,2021-08-06,2021-08-06T17:57:07Z,44814721,0.0,,0,0,0,,2824218476,,Total score [AUDIT-C],0,{score},,0.0,,0
+1179040510,4250096122,0,2024-08-09,2024-08-09T16:14:15Z,44814722,,Never smoked tobacco (finding),0,0,0,,1606936399,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+432657779,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,No,4132135,0,0,,1606936399,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+3587122309,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,Yes,4188539,0,0,,1606936399,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+1171356540,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,No,4132135,0,0,,1606936399,,Are you a refugee?,0,,,No,,0
+1183371698,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,No,4132135,0,0,,1606936399,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+2726621371,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,Not at all,0,0,0,,1606936399,,Stress level,0,,,Not at all,,0
+2588810990,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,5 or more times a week,0,0,0,,1606936399,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+2015165642,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,No,4132135,0,0,,1606936399,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+3155338259,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,Food,0,0,0,,1606936399,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+1126850300,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,19149.0,,0,0,0,,1606936399,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,19149,,0
+2973547270,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,I choose not to answer this question,0,0,0,,1606936399,,Primary insurance,0,,,I choose not to answer this question,,0
+4150787315,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,Full-time work,0,0,0,,1606936399,,Employment status - current,0,,,Full-time work,,0
+4132430361,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,Less than high school degree,0,0,0,,1606936399,,Highest level of education,0,,,Less than high school degree,,0
+253768928,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,Camino Díaz 51 Portal 54,0,0,0,,1606936399,,Address,0,,,Camino Díaz 51 Portal 54,,0
+215881834,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,Yes,4188539,0,0,,1606936399,,Are you worried about losing your housing?,0,,,Yes,,0
+2307565363,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,I have housing,0,0,0,,1606936399,,Housing status,0,,,I have housing,,0
+585415604,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,2.0,,0,0,0,,1606936399,,How many people are living or staying at this address?,0,{#},,2.0,,0
+2330920425,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,English,0,0,0,,1606936399,,Preferred language,0,,,English,,0
+4035275347,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,No,4132135,0,0,,1606936399,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+3986186974,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,No,4132135,0,0,,1606936399,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+2043351047,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,White,0,0,0,,1606936399,,Race,0,,,White,,0
+4046659471,4250096122,0,2024-08-09,2024-08-09T17:00:02Z,44814721,,No,4132135,0,0,,1606936399,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1345109418,4250096122,0,2024-08-09,2024-08-09T17:25:43Z,44814721,3.0,,0,0,0,,1606936399,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,3.0,,0
+690230181,4250096122,0,2024-08-09,2024-08-09T18:07:59Z,44814721,0.0,,0,0,0,,1606936399,,Total score [DAST-10],0,{score},,0.0,,0
+64651146,3709702970,0,2018-03-15,2018-03-15T19:36:57Z,44814722,,Never smoked tobacco (finding),0,0,0,,1462041646,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+4022630569,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,No,4132135,0,0,,1462041646,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+3409549859,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,Yes,4188539,0,0,,1462041646,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+922861365,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,No,4132135,0,0,,1462041646,,Are you a refugee?,0,,,No,,0
+954328188,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,No,4132135,0,0,,1462041646,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+3313183777,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,Not at all,0,0,0,,1462041646,,Stress level,0,,,Not at all,,0
+2334157761,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,3 to 5 times a week,0,0,0,,1462041646,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+1343705957,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,0,0,0,,1462041646,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,0
+1864126614,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,Food,0,0,0,,1462041646,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+4253541492,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,3244.0,,0,0,0,,1462041646,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,3244,,0
+2149424245,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,I choose not to answer this question,0,0,0,,1462041646,,Primary insurance,0,,,I choose not to answer this question,,0
+1780776070,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,Unemployed,0,0,0,,1462041646,,Employment status - current,0,,,Unemployed,,0
+3037451126,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,More than high school,0,0,0,,1462041646,,Highest level of education,0,,,More than high school,,0
+876394192,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,Subida Blanco 22 Portal 70,0,0,0,,1462041646,,Address,0,,,Subida Blanco 22 Portal 70,,0
+1360213641,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,Yes,4188539,0,0,,1462041646,,Are you worried about losing your housing?,0,,,Yes,,0
+3752070295,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,I have housing,0,0,0,,1462041646,,Housing status,0,,,I have housing,,0
+579995838,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,4.0,,0,0,0,,1462041646,,How many people are living or staying at this address?,0,{#},,4.0,,0
+2356304681,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,English,0,0,0,,1462041646,,Preferred language,0,,,English,,0
+4185022070,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,No,4132135,0,0,,1462041646,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+2576751764,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,No,4132135,0,0,,1462041646,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+2457337618,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,White,0,0,0,,1462041646,,Race,0,,,White,,0
+971210970,3709702970,0,2018-03-15,2018-03-15T20:20:59Z,44814721,,No,4132135,0,0,,1462041646,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+995606614,3709702970,0,2018-03-15,2018-03-15T20:50:45Z,44814721,2.0,,0,0,0,,1462041646,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,2.0,,0
+635806745,3709702970,0,2018-03-15,2018-03-15T21:28:49Z,44814721,0.0,,0,0,0,,1462041646,,Total score [HARK],0,{score},,0.0,,0
+3128736909,3709702970,0,2018-03-15,2018-03-15T22:09:13Z,44814721,0.0,,0,0,0,,1462041646,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,0.0,,0
+4054234689,3709702970,0,2019-02-28,2019-02-28T19:36:57Z,44814722,,Never smoked tobacco (finding),0,0,0,,2959851116,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1769219216,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,No,4132135,0,0,,2959851116,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+1693008812,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,Yes,4188539,0,0,,2959851116,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+2387927069,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,No,4132135,0,0,,2959851116,,Are you a refugee?,0,,,No,,0
+4260853341,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,No,4132135,0,0,,2959851116,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1875630302,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,Quite a bit,0,0,0,,2959851116,,Stress level,0,,,Quite a bit,,0
+4189126460,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,3 to 5 times a week,0,0,0,,2959851116,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+3064573495,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,Yes  it has kept me from medical appointments or from getting my medications,0,0,0,,2959851116,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from medical appointments or from getting my medications,,0
+525330099,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,Food,0,0,0,,2959851116,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+3578201153,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,3244.0,,0,0,0,,2959851116,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,3244,,0
+512288224,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,I choose not to answer this question,0,0,0,,2959851116,,Primary insurance,0,,,I choose not to answer this question,,0
+4247359618,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,Full-time work,0,0,0,,2959851116,,Employment status - current,0,,,Full-time work,,0
+104702876,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,More than high school,0,0,0,,2959851116,,Highest level of education,0,,,More than high school,,0
+3585421554,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,Subida Blanco 22 Portal 70,0,0,0,,2959851116,,Address,0,,,Subida Blanco 22 Portal 70,,0
+74590681,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,Yes,4188539,0,0,,2959851116,,Are you worried about losing your housing?,0,,,Yes,,0
+3785680228,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,I have housing,0,0,0,,2959851116,,Housing status,0,,,I have housing,,0
+3859134606,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,4.0,,0,0,0,,2959851116,,How many people are living or staying at this address?,0,{#},,4.0,,0
+1947653912,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,English,0,0,0,,2959851116,,Preferred language,0,,,English,,0
+763687213,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,No,4132135,0,0,,2959851116,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+2081280343,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,No,4132135,0,0,,2959851116,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+1895166993,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,White,0,0,0,,2959851116,,Race,0,,,White,,0
+945271532,3709702970,0,2019-02-28,2019-02-28T20:27:33Z,44814721,,No,4132135,0,0,,2959851116,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2655994422,3709702970,0,2019-02-28,2019-02-28T20:51:54Z,44814721,8.0,,0,0,0,,2959851116,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,8.0,,0
+150760600,3709702970,0,2019-02-28,2019-02-28T21:30:15Z,44814721,0.0,,0,0,0,,2959851116,,Total score [HARK],0,{score},,0.0,,0
+2282429410,3709702970,0,2019-02-28,2019-02-28T22:06:27Z,44814721,1.0,,0,0,0,,2959851116,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+2024522843,3709702970,0,2019-02-28,2019-02-28T22:38:40Z,44814721,1.0,,0,0,0,,2959851116,,Total score [AUDIT-C],0,{score},,1.0,,0
+1108288145,3709702970,0,2021-03-18,2021-03-18T19:36:57Z,44814722,,Never smoked tobacco (finding),0,0,0,,512254852,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+4097852199,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,No,4132135,0,0,,512254852,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+959332495,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,Yes,4188539,0,0,,512254852,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+1256305466,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,No,4132135,0,0,,512254852,,Are you a refugee?,0,,,No,,0
+2927714578,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,No,4132135,0,0,,512254852,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+2080259297,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,A little bit,0,0,0,,512254852,,Stress level,0,,,A little bit,,0
+2513372240,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,3 to 5 times a week,0,0,0,,512254852,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+3637338851,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,0,0,0,,512254852,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,0
+3147579265,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,Food,0,0,0,,512254852,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+392080263,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,3244.0,,0,0,0,,512254852,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,3244,,0
+1176753220,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,I choose not to answer this question,0,0,0,,512254852,,Primary insurance,0,,,I choose not to answer this question,,0
+481210643,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,Full-time work,0,0,0,,512254852,,Employment status - current,0,,,Full-time work,,0
+4024123507,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,More than high school,0,0,0,,512254852,,Highest level of education,0,,,More than high school,,0
+2036917743,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,Subida Blanco 22 Portal 70,0,0,0,,512254852,,Address,0,,,Subida Blanco 22 Portal 70,,0
+265691880,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,Yes,4188539,0,0,,512254852,,Are you worried about losing your housing?,0,,,Yes,,0
+2616132691,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,I have housing,0,0,0,,512254852,,Housing status,0,,,I have housing,,0
+1684286643,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,4.0,,0,0,0,,512254852,,How many people are living or staying at this address?,0,{#},,4.0,,0
+1543388976,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,English,0,0,0,,512254852,,Preferred language,0,,,English,,0
+1166320012,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,No,4132135,0,0,,512254852,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1498295477,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,No,4132135,0,0,,512254852,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+3872015755,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,White,0,0,0,,512254852,,Race,0,,,White,,0
+2644118850,3709702970,0,2021-03-18,2021-03-18T20:13:46Z,44814721,,No,4132135,0,0,,512254852,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2876513960,3709702970,0,2021-03-18,2021-03-18T20:30:02Z,44814721,1.0,,0,0,0,,512254852,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,1.0,,0
+3262230648,3709702970,0,2021-03-18,2021-03-18T20:56:26Z,44814721,2.0,,0,0,0,,512254852,,Total score [HARK],0,{score},,2.0,,0
+2628625684,3709702970,0,2024-03-21,2024-03-21T19:36:57Z,44814722,,Never smoked tobacco (finding),0,0,0,,3646517145,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3062946139,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,No,4132135,0,0,,3646517145,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+2847508985,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,Yes,4188539,0,0,,3646517145,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+1048414349,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,No,4132135,0,0,,3646517145,,Are you a refugee?,0,,,No,,0
+2504537333,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,No,4132135,0,0,,3646517145,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+3182004744,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,A little bit,0,0,0,,3646517145,,Stress level,0,,,A little bit,,0
+1345465966,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,5 or more times a week,0,0,0,,3646517145,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+1357177641,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,0,0,0,,3646517145,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,0
+3417422949,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,Food,0,0,0,,3646517145,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+2655764781,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,3244.0,,0,0,0,,3646517145,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,3244,,0
+1049449482,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,I choose not to answer this question,0,0,0,,3646517145,,Primary insurance,0,,,I choose not to answer this question,,0
+1181699296,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,Full-time work,0,0,0,,3646517145,,Employment status - current,0,,,Full-time work,,0
+1158879569,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,More than high school,0,0,0,,3646517145,,Highest level of education,0,,,More than high school,,0
+1178864998,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,Subida Blanco 22 Portal 70,0,0,0,,3646517145,,Address,0,,,Subida Blanco 22 Portal 70,,0
+827525086,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,Yes,4188539,0,0,,3646517145,,Are you worried about losing your housing?,0,,,Yes,,0
+1054525313,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,I have housing,0,0,0,,3646517145,,Housing status,0,,,I have housing,,0
+3447641215,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,4.0,,0,0,0,,3646517145,,How many people are living or staying at this address?,0,{#},,4.0,,0
+3424748133,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,English,0,0,0,,3646517145,,Preferred language,0,,,English,,0
+3577485136,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,No,4132135,0,0,,3646517145,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1133370698,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,Yes,4188539,0,0,,3646517145,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,Yes,,0
+2142153536,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,White,0,0,0,,3646517145,,Race,0,,,White,,0
+1695586991,3709702970,0,2024-03-21,2024-03-21T20:34:05Z,44814721,,No,4132135,0,0,,3646517145,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2626639760,3709702970,0,2024-03-21,2024-03-21T20:52:16Z,44814721,12.0,,0,0,0,,3646517145,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,12.0,,0
+576803593,3709702970,0,2024-03-21,2024-03-21T21:28:15Z,44814721,0.0,,0,0,0,,3646517145,,Total score [HARK],0,{score},,0.0,,0
+123985488,3709702970,0,2024-03-21,2024-03-21T22:06:49Z,44814721,3.0,,0,0,0,,3646517145,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,3.0,,0
+1646583932,3709702970,0,2024-03-21,2024-03-21T22:31:36Z,44814721,3.0,,0,0,0,,3646517145,,Patient Health Questionnaire 9 item (PHQ-9) total score [Reported],0,{score},,3.0,,0
+4019959442,656490630,0,2017-01-20,2017-01-20T10:25:38Z,44814722,,Ex-smoker (finding),0,0,0,,3214035483,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+2167167626,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,No,4132135,0,0,,3214035483,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+3808710611,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,Yes,4188539,0,0,,3214035483,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+684623797,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,No,4132135,0,0,,3214035483,,Are you a refugee?,0,,,No,,0
+2393773477,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,No,4132135,0,0,,3214035483,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+751814820,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,Not at all,0,0,0,,3214035483,,Stress level,0,,,Not at all,,0
+725684932,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,5 or more times a week,0,0,0,,3214035483,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+1567089309,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,No,4132135,0,0,,3214035483,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+3950670770,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,Food,0,0,0,,3214035483,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+1353294818,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,23556.0,,0,0,0,,3214035483,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,23556,,0
+2306165072,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,I choose not to answer this question,0,0,0,,3214035483,,Primary insurance,0,,,I choose not to answer this question,,0
+2892553450,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,Full-time work,0,0,0,,3214035483,,Employment status - current,0,,,Full-time work,,0
+2417208786,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,Less than high school degree,0,0,0,,3214035483,,Highest level of education,0,,,Less than high school degree,,0
+3338254896,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,Ronda Vega 94,0,0,0,,3214035483,,Address,0,,,Ronda Vega 94,,0
+3239197899,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,Yes,4188539,0,0,,3214035483,,Are you worried about losing your housing?,0,,,Yes,,0
+4198267497,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,I have housing,0,0,0,,3214035483,,Housing status,0,,,I have housing,,0
+1959273739,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,8.0,,0,0,0,,3214035483,,How many people are living or staying at this address?,0,{#},,8.0,,0
+39179941,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,English,0,0,0,,3214035483,,Preferred language,0,,,English,,0
+841780613,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,No,4132135,0,0,,3214035483,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+3856322522,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,No,4132135,0,0,,3214035483,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+1804821858,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,White,0,0,0,,3214035483,,Race,0,,,White,,0
+1547902310,656490630,0,2017-01-20,2017-01-20T11:12:57Z,44814721,,No,4132135,0,0,,3214035483,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1879589917,656490630,0,2017-01-20,2017-01-20T11:46:26Z,44814721,2.0,,0,0,0,,3214035483,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,2.0,,0
+259692386,656490630,0,2017-03-31,2017-03-31T10:25:38Z,44814722,,Ex-smoker (finding),0,0,0,,1378393670,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+135677493,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,Yes,4188539,0,0,,1378393670,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,Yes,,0
+942048792,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,Yes,4188539,0,0,,1378393670,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+3625823188,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,No,4132135,0,0,,1378393670,,Are you a refugee?,0,,,No,,0
+3772522746,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,No,4132135,0,0,,1378393670,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+3554815804,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,Not at all,0,0,0,,1378393670,,Stress level,0,,,Not at all,,0
+844558902,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,3 to 5 times a week,0,0,0,,1378393670,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+1206076642,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,No,4132135,0,0,,1378393670,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+4224018252,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,Food,0,0,0,,1378393670,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+3958477057,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,23556.0,,0,0,0,,1378393670,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,23556,,0
+3646753124,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,I choose not to answer this question,0,0,0,,1378393670,,Primary insurance,0,,,I choose not to answer this question,,0
+437142233,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,Full-time work,0,0,0,,1378393670,,Employment status - current,0,,,Full-time work,,0
+3205590830,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,Less than high school degree,0,0,0,,1378393670,,Highest level of education,0,,,Less than high school degree,,0
+677976566,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,Ronda Vega 94,0,0,0,,1378393670,,Address,0,,,Ronda Vega 94,,0
+3459386998,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,Yes,4188539,0,0,,1378393670,,Are you worried about losing your housing?,0,,,Yes,,0
+1812157860,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,I have housing,0,0,0,,1378393670,,Housing status,0,,,I have housing,,0
+2770783905,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,8.0,,0,0,0,,1378393670,,How many people are living or staying at this address?,0,{#},,8.0,,0
+2349527026,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,English,0,0,0,,1378393670,,Preferred language,0,,,English,,0
+4147815962,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,No,4132135,0,0,,1378393670,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+3177643692,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,No,4132135,0,0,,1378393670,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+2353942674,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,White,0,0,0,,1378393670,,Race,0,,,White,,0
+3528295041,656490630,0,2017-03-31,2017-03-31T11:10:36Z,44814721,,No,4132135,0,0,,1378393670,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1668094494,656490630,0,2017-03-31,2017-03-31T11:27:35Z,44814721,4.0,,0,0,0,,1378393670,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,4.0,,0
+3745316588,656490630,0,2020-01-11,2020-01-11T10:25:38Z,44814724,70.4,,0,0,0,,2088115869,,FEV1/FVC,0,%,,70.4,,0
+3974214277,656490630,0,2020-01-17,2020-01-17T10:25:38Z,44814722,,Ex-smoker (finding),0,0,0,,355452226,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+3885893034,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,Yes,4188539,0,0,,355452226,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,Yes,,0
+414444144,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,Yes,4188539,0,0,,355452226,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+859668730,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,No,4132135,0,0,,355452226,,Are you a refugee?,0,,,No,,0
+1237820551,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,No,4132135,0,0,,355452226,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1884277077,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,Not at all,0,0,0,,355452226,,Stress level,0,,,Not at all,,0
+3756492803,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,3 to 5 times a week,0,0,0,,355452226,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+2177281847,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,No,4132135,0,0,,355452226,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+3873244299,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,Food,0,0,0,,355452226,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+2576417895,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,23556.0,,0,0,0,,355452226,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,23556,,0
+4120062312,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,I choose not to answer this question,0,0,0,,355452226,,Primary insurance,0,,,I choose not to answer this question,,0
+3052312876,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,Full-time work,0,0,0,,355452226,,Employment status - current,0,,,Full-time work,,0
+2188025381,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,Less than high school degree,0,0,0,,355452226,,Highest level of education,0,,,Less than high school degree,,0
+3386513503,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,Ronda Vega 94,0,0,0,,355452226,,Address,0,,,Ronda Vega 94,,0
+2838509254,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,Yes,4188539,0,0,,355452226,,Are you worried about losing your housing?,0,,,Yes,,0
+3098456639,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,I have housing,0,0,0,,355452226,,Housing status,0,,,I have housing,,0
+3716410667,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,8.0,,0,0,0,,355452226,,How many people are living or staying at this address?,0,{#},,8.0,,0
+1946974832,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,English,0,0,0,,355452226,,Preferred language,0,,,English,,0
+1289460991,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,No,4132135,0,0,,355452226,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+4139099975,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,No,4132135,0,0,,355452226,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+2534824696,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,White,0,0,0,,355452226,,Race,0,,,White,,0
+2309379263,656490630,0,2020-01-17,2020-01-17T11:01:06Z,44814721,,No,4132135,0,0,,355452226,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+593561714,656490630,0,2020-01-17,2020-01-17T11:27:36Z,44814721,1.0,,0,0,0,,355452226,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,1.0,,0
+2577676603,656490630,0,2020-01-17,2020-01-17T12:01:34Z,44814721,0.0,,0,0,0,,355452226,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,0.0,,0
+2657831208,656490630,0,2020-01-24,2020-01-24T10:25:38Z,44814724,50.7,,0,0,0,,2481319631,,FEV1/FVC,0,%,,50.7,,0
+3797222282,656490630,0,2021-01-22,2021-01-22T10:25:38Z,44814724,67.5,,0,0,0,,3984391761,,FEV1/FVC,0,%,,67.5,,0
+1075159838,656490630,0,2021-01-22,2021-01-22T10:25:38Z,44814722,,Ex-smoker (finding),0,0,0,,3984391761,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+1266516135,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,No,4132135,0,0,,3984391761,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+2423433331,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,Yes,4188539,0,0,,3984391761,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+449677595,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,No,4132135,0,0,,3984391761,,Are you a refugee?,0,,,No,,0
+4244683558,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,No,4132135,0,0,,3984391761,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1834913970,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,Not at all,0,0,0,,3984391761,,Stress level,0,,,Not at all,,0
+1805411097,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,I choose not to answer this question,0,0,0,,3984391761,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,I choose not to answer this question,,0
+3866171956,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,No,4132135,0,0,,3984391761,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+3361167768,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,Food,0,0,0,,3984391761,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+3631870468,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,23556.0,,0,0,0,,3984391761,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,23556,,0
+2360690949,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,I choose not to answer this question,0,0,0,,3984391761,,Primary insurance,0,,,I choose not to answer this question,,0
+2370271359,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,Full-time work,0,0,0,,3984391761,,Employment status - current,0,,,Full-time work,,0
+4225479677,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,Less than high school degree,0,0,0,,3984391761,,Highest level of education,0,,,Less than high school degree,,0
+1694856762,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,Ronda Vega 94,0,0,0,,3984391761,,Address,0,,,Ronda Vega 94,,0
+1870337212,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,Yes,4188539,0,0,,3984391761,,Are you worried about losing your housing?,0,,,Yes,,0
+2921038482,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,I have housing,0,0,0,,3984391761,,Housing status,0,,,I have housing,,0
+265867880,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,8.0,,0,0,0,,3984391761,,How many people are living or staying at this address?,0,{#},,8.0,,0
+2190573026,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,English,0,0,0,,3984391761,,Preferred language,0,,,English,,0
+3401337135,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,No,4132135,0,0,,3984391761,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+3680241581,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,No,4132135,0,0,,3984391761,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+3489211564,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,White,0,0,0,,3984391761,,Race,0,,,White,,0
+2209709613,656490630,0,2021-01-22,2021-01-22T11:20:17Z,44814721,,No,4132135,0,0,,3984391761,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+3102441849,656490630,0,2021-01-22,2021-01-22T11:38:22Z,44814721,1.0,,0,0,0,,3984391761,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,1.0,,0
+195645393,656490630,0,2021-01-22,2021-01-22T12:12:56Z,44814721,0.0,,0,0,0,,3984391761,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,0.0,,0
+3588390207,656490630,0,2022-01-28,2022-01-28T10:25:38Z,44814724,69.1,,0,0,0,,2479244952,,FEV1/FVC,0,%,,69.1,,0
+141518788,656490630,0,2022-01-28,2022-01-28T10:25:38Z,44814722,,Ex-smoker (finding),0,0,0,,2479244952,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+275787195,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,No,4132135,0,0,,2479244952,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+262255921,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,Yes,4188539,0,0,,2479244952,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+2048596770,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,No,4132135,0,0,,2479244952,,Are you a refugee?,0,,,No,,0
+3019561379,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,No,4132135,0,0,,2479244952,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+2268245119,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,Not at all,0,0,0,,2479244952,,Stress level,0,,,Not at all,,0
+4212713076,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,5 or more times a week,0,0,0,,2479244952,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+4101357772,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,No,4132135,0,0,,2479244952,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+4275398411,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,Food,0,0,0,,2479244952,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+1154330435,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,23556.0,,0,0,0,,2479244952,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,23556,,0
+3270576097,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,I choose not to answer this question,0,0,0,,2479244952,,Primary insurance,0,,,I choose not to answer this question,,0
+3395461854,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,Full-time work,0,0,0,,2479244952,,Employment status - current,0,,,Full-time work,,0
+851861337,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,Less than high school degree,0,0,0,,2479244952,,Highest level of education,0,,,Less than high school degree,,0
+2127673706,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,Ronda Vega 94,0,0,0,,2479244952,,Address,0,,,Ronda Vega 94,,0
+1517612877,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,Yes,4188539,0,0,,2479244952,,Are you worried about losing your housing?,0,,,Yes,,0
+4174172861,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,I have housing,0,0,0,,2479244952,,Housing status,0,,,I have housing,,0
+1759788177,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,8.0,,0,0,0,,2479244952,,How many people are living or staying at this address?,0,{#},,8.0,,0
+2567356443,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,English,0,0,0,,2479244952,,Preferred language,0,,,English,,0
+503040473,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,No,4132135,0,0,,2479244952,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1129890847,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,Yes,4188539,0,0,,2479244952,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,Yes,,0
+3379298614,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,White,0,0,0,,2479244952,,Race,0,,,White,,0
+2153976296,656490630,0,2022-01-28,2022-01-28T11:13:19Z,44814721,,No,4132135,0,0,,2479244952,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1673688346,656490630,0,2022-01-28,2022-01-28T11:56:58Z,44814721,0.0,,0,0,0,,2479244952,,Total score [HARK],0,{score},,0.0,,0
+1664771689,656490630,0,2022-01-28,2022-01-28T12:40:47Z,44814721,1.0,,0,0,0,,2479244952,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+67865549,656490630,0,2023-02-03,2023-02-03T10:25:38Z,44814724,56.2,,0,0,0,,1740036908,,FEV1/FVC,0,%,,56.2,,0
+2671824489,656490630,0,2023-02-03,2023-02-03T10:25:38Z,44814722,,Ex-smoker (finding),0,0,0,,1740036908,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+4086514755,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,No,4132135,0,0,,1740036908,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+2102471503,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,Yes,4188539,0,0,,1740036908,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+1055605333,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,No,4132135,0,0,,1740036908,,Are you a refugee?,0,,,No,,0
+1677545236,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,No,4132135,0,0,,1740036908,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1982311057,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,Somewhat,0,0,0,,1740036908,,Stress level,0,,,Somewhat,,0
+3336242645,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,3 to 5 times a week,0,0,0,,1740036908,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+835165035,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,No,4132135,0,0,,1740036908,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+2763020967,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,I choose not to answer this question,0,0,0,,1740036908,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,I choose not to answer this question,,0
+4002651786,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,23556.0,,0,0,0,,1740036908,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,23556,,0
+1529145382,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,I choose not to answer this question,0,0,0,,1740036908,,Primary insurance,0,,,I choose not to answer this question,,0
+3826779841,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,Full-time work,0,0,0,,1740036908,,Employment status - current,0,,,Full-time work,,0
+3858241325,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,Less than high school degree,0,0,0,,1740036908,,Highest level of education,0,,,Less than high school degree,,0
+4081651320,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,Ronda Vega 94,0,0,0,,1740036908,,Address,0,,,Ronda Vega 94,,0
+42629166,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,Yes,4188539,0,0,,1740036908,,Are you worried about losing your housing?,0,,,Yes,,0
+283018121,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,I have housing,0,0,0,,1740036908,,Housing status,0,,,I have housing,,0
+3501522420,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,8.0,,0,0,0,,1740036908,,How many people are living or staying at this address?,0,{#},,8.0,,0
+1902211429,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,English,0,0,0,,1740036908,,Preferred language,0,,,English,,0
+3712660947,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,No,4132135,0,0,,1740036908,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+2197049674,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,No,4132135,0,0,,1740036908,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+1726199359,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,White,0,0,0,,1740036908,,Race,0,,,White,,0
+913813147,656490630,0,2023-02-03,2023-02-03T11:13:08Z,44814721,,No,4132135,0,0,,1740036908,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2286040720,656490630,0,2023-02-03,2023-02-03T11:44:38Z,44814721,0.0,,0,0,0,,1740036908,,Total score [HARK],0,{score},,0.0,,0
+2168556501,656490630,0,2024-02-09,2024-02-09T10:25:38Z,44814724,67.1,,0,0,0,,4076978678,,FEV1/FVC,0,%,,67.1,,0
+3314857538,656490630,0,2024-02-09,2024-02-09T10:25:38Z,44814722,,Ex-smoker (finding),0,0,0,,4076978678,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+2597415309,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,No,4132135,0,0,,4076978678,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+1458109512,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,Yes,4188539,0,0,,4076978678,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+3556126149,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,No,4132135,0,0,,4076978678,,Are you a refugee?,0,,,No,,0
+558732224,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,No,4132135,0,0,,4076978678,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+2191955253,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,Not at all,0,0,0,,4076978678,,Stress level,0,,,Not at all,,0
+1961080703,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,3 to 5 times a week,0,0,0,,4076978678,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+3605726220,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,No,4132135,0,0,,4076978678,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+2904183553,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,Food,0,0,0,,4076978678,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+3952989211,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,23556.0,,0,0,0,,4076978678,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,23556,,0
+886059022,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,I choose not to answer this question,0,0,0,,4076978678,,Primary insurance,0,,,I choose not to answer this question,,0
+2436458906,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,Unemployed,0,0,0,,4076978678,,Employment status - current,0,,,Unemployed,,0
+1926973558,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,Less than high school degree,0,0,0,,4076978678,,Highest level of education,0,,,Less than high school degree,,0
+4144499625,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,Ronda Vega 94,0,0,0,,4076978678,,Address,0,,,Ronda Vega 94,,0
+2031044944,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,Yes,4188539,0,0,,4076978678,,Are you worried about losing your housing?,0,,,Yes,,0
+1922813161,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,I have housing,0,0,0,,4076978678,,Housing status,0,,,I have housing,,0
+3937997010,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,8.0,,0,0,0,,4076978678,,How many people are living or staying at this address?,0,{#},,8.0,,0
+2671206475,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,English,0,0,0,,4076978678,,Preferred language,0,,,English,,0
+3379752791,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,No,4132135,0,0,,4076978678,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1737489473,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,No,4132135,0,0,,4076978678,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+1958545080,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,White,0,0,0,,4076978678,,Race,0,,,White,,0
+279617818,656490630,0,2024-02-09,2024-02-09T11:05:05Z,44814721,,No,4132135,0,0,,4076978678,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2173084193,656490630,0,2025-02-14,2025-02-14T10:25:38Z,44814724,61.6,,0,0,0,,1399712375,,FEV1/FVC,0,%,,61.6,,0
+1570770008,656490630,0,2025-02-14,2025-02-14T10:25:38Z,44814722,,Ex-smoker (finding),0,0,0,,1399712375,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+894887432,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,No,4132135,0,0,,1399712375,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+3020914077,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,Yes,4188539,0,0,,1399712375,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+2941805868,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,No,4132135,0,0,,1399712375,,Are you a refugee?,0,,,No,,0
+954171116,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,No,4132135,0,0,,1399712375,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+973901771,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,A little bit,0,0,0,,1399712375,,Stress level,0,,,A little bit,,0
+699102316,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,3 to 5 times a week,0,0,0,,1399712375,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+1383415096,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,No,4132135,0,0,,1399712375,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+534738866,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,Food,0,0,0,,1399712375,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+1400232331,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,23556.0,,0,0,0,,1399712375,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,23556,,0
+4120855858,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,I choose not to answer this question,0,0,0,,1399712375,,Primary insurance,0,,,I choose not to answer this question,,0
+1356223257,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver),0,0,0,,1399712375,,Employment status - current,0,,,Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver),,0
+3813904021,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,Less than high school degree,0,0,0,,1399712375,,Highest level of education,0,,,Less than high school degree,,0
+3128317901,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,Ronda Vega 94,0,0,0,,1399712375,,Address,0,,,Ronda Vega 94,,0
+179512413,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,Yes,4188539,0,0,,1399712375,,Are you worried about losing your housing?,0,,,Yes,,0
+3718450251,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,I have housing,0,0,0,,1399712375,,Housing status,0,,,I have housing,,0
+1749320491,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,8.0,,0,0,0,,1399712375,,How many people are living or staying at this address?,0,{#},,8.0,,0
+525571363,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,English,0,0,0,,1399712375,,Preferred language,0,,,English,,0
+2829717986,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,No,4132135,0,0,,1399712375,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+3164109669,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,No,4132135,0,0,,1399712375,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+2503478188,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,White,0,0,0,,1399712375,,Race,0,,,White,,0
+1767322836,656490630,0,2025-02-14,2025-02-14T11:07:34Z,44814721,,No,4132135,0,0,,1399712375,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+712180185,656490630,0,2025-02-14,2025-02-14T11:40:30Z,44814721,0.0,,0,0,0,,1399712375,,Total score [HARK],0,{score},,0.0,,0
+1050445011,249651435,0,2015-06-27,2015-06-27T01:08:04Z,44814722,,Ex-smoker (finding),0,0,0,,188626242,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+1152358102,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,No,4132135,0,0,,188626242,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+2445586927,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,Yes,4188539,0,0,,188626242,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+3583485285,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,No,4132135,0,0,,188626242,,Are you a refugee?,0,,,No,,0
+2271700750,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,No,4132135,0,0,,188626242,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1281136394,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,Not at all,0,0,0,,188626242,,Stress level,0,,,Not at all,,0
+338087045,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,Less than once a week,0,0,0,,188626242,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,Less than once a week,,0
+3500754151,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,No,4132135,0,0,,188626242,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+1079245858,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,Food,0,0,0,,188626242,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+1707290934,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,29297.0,,0,0,0,,188626242,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,29297,,0
+945430998,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,I choose not to answer this question,0,0,0,,188626242,,Primary insurance,0,,,I choose not to answer this question,,0
+284333599,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,Full-time work,0,0,0,,188626242,,Employment status - current,0,,,Full-time work,,0
+1002524923,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,More than high school,0,0,0,,188626242,,Highest level of education,0,,,More than high school,,0
+419176770,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,Calle Cabrera 47 Escalera 74,0,0,0,,188626242,,Address,0,,,Calle Cabrera 47 Escalera 74,,0
+1263784973,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,No,4132135,0,0,,188626242,,Are you worried about losing your housing?,0,,,No,,0
+842963404,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,I have housing,0,0,0,,188626242,,Housing status,0,,,I have housing,,0
+1354760855,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,2.0,,0,0,0,,188626242,,How many people are living or staying at this address?,0,{#},,2.0,,0
+963186430,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,English,0,0,0,,188626242,,Preferred language,0,,,English,,0
+3484643976,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,No,4132135,0,0,,188626242,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1198840280,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,I choose not to answer this question,0,0,0,,188626242,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,I choose not to answer this question,,0
+3778052549,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,White,0,0,0,,188626242,,Race,0,,,White,,0
+1994102005,249651435,0,2015-06-27,2015-06-27T01:39:53Z,44814721,,No,4132135,0,0,,188626242,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2184989957,249651435,0,2015-06-27,2015-06-27T02:06:57Z,44814721,0.0,,0,0,0,,188626242,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,0.0,,0
+4169712407,249651435,0,2015-06-27,2015-06-27T02:44:45Z,44814721,0.0,,0,0,0,,188626242,,Total score [HARK],0,{score},,0.0,,0
+2894570061,249651435,0,2015-06-27,2015-06-27T03:19:43Z,44814721,2.0,,0,0,0,,188626242,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,2.0,,0
+1657675225,249651435,0,2015-06-27,2015-06-27T04:01:13Z,44814721,0.0,,0,0,0,,188626242,,Total score [AUDIT-C],0,{score},,0.0,,0
+2508259261,249651435,0,2015-12-05,2015-12-05T01:08:04Z,44814722,,Ex-smoker (finding),0,0,0,,1887139271,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+3961362945,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,No,4132135,0,0,,1887139271,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+4204379744,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,Yes,4188539,0,0,,1887139271,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+97825690,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,No,4132135,0,0,,1887139271,,Are you a refugee?,0,,,No,,0
+1214094103,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,No,4132135,0,0,,1887139271,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+3511136655,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,Not at all,0,0,0,,1887139271,,Stress level,0,,,Not at all,,0
+4016981015,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,3 to 5 times a week,0,0,0,,1887139271,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+4280733709,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,No,4132135,0,0,,1887139271,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+2091412216,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,Food,0,0,0,,1887139271,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+3682823783,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,29297.0,,0,0,0,,1887139271,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,29297,,0
+3001293175,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,I choose not to answer this question,0,0,0,,1887139271,,Primary insurance,0,,,I choose not to answer this question,,0
+3890014284,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,Part-time or temporary work,0,0,0,,1887139271,,Employment status - current,0,,,Part-time or temporary work,,0
+3361357420,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,More than high school,0,0,0,,1887139271,,Highest level of education,0,,,More than high school,,0
+3856525658,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,Calle Cabrera 47 Escalera 74,0,0,0,,1887139271,,Address,0,,,Calle Cabrera 47 Escalera 74,,0
+26215582,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,No,4132135,0,0,,1887139271,,Are you worried about losing your housing?,0,,,No,,0
+1426260564,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,I have housing,0,0,0,,1887139271,,Housing status,0,,,I have housing,,0
+547743839,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,2.0,,0,0,0,,1887139271,,How many people are living or staying at this address?,0,{#},,2.0,,0
+2419735397,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,English,0,0,0,,1887139271,,Preferred language,0,,,English,,0
+3774398644,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,No,4132135,0,0,,1887139271,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+2436256305,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,No,4132135,0,0,,1887139271,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+3156711545,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,White,0,0,0,,1887139271,,Race,0,,,White,,0
+4239613265,249651435,0,2015-12-05,2015-12-05T01:49:23Z,44814721,,No,4132135,0,0,,1887139271,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+694261989,249651435,0,2015-12-05,2015-12-05T02:10:21Z,44814721,11.0,,0,0,0,,1887139271,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,11.0,,0
+2126518971,249651435,0,2015-12-05,2015-12-05T02:45:21Z,44814721,0.0,,0,0,0,,1887139271,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,0.0,,0
+559717954,249651435,0,2018-04-14,2018-04-14T01:08:04Z,44814722,,Ex-smoker (finding),0,0,0,,1441220721,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+2438460321,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,No,4132135,0,0,,1441220721,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+330861973,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,Yes,4188539,0,0,,1441220721,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+3124932082,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,No,4132135,0,0,,1441220721,,Are you a refugee?,0,,,No,,0
+3176082561,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,No,4132135,0,0,,1441220721,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+2604668876,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,Quite a bit,0,0,0,,1441220721,,Stress level,0,,,Quite a bit,,0
+3235863095,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,5 or more times a week,0,0,0,,1441220721,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+467857928,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,No,4132135,0,0,,1441220721,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+1521604117,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,Food,0,0,0,,1441220721,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+976169544,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,29297.0,,0,0,0,,1441220721,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,29297,,0
+2439056677,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,I choose not to answer this question,0,0,0,,1441220721,,Primary insurance,0,,,I choose not to answer this question,,0
+4137665002,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,Full-time work,0,0,0,,1441220721,,Employment status - current,0,,,Full-time work,,0
+3879246939,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,More than high school,0,0,0,,1441220721,,Highest level of education,0,,,More than high school,,0
+3627983776,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,Calle Cabrera 47 Escalera 74,0,0,0,,1441220721,,Address,0,,,Calle Cabrera 47 Escalera 74,,0
+2592911823,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,No,4132135,0,0,,1441220721,,Are you worried about losing your housing?,0,,,No,,0
+261096066,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,I have housing,0,0,0,,1441220721,,Housing status,0,,,I have housing,,0
+463581768,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,2.0,,0,0,0,,1441220721,,How many people are living or staying at this address?,0,{#},,2.0,,0
+1571773555,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,English,0,0,0,,1441220721,,Preferred language,0,,,English,,0
+2597227103,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,No,4132135,0,0,,1441220721,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+584313654,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,No,4132135,0,0,,1441220721,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+1825001580,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,White,0,0,0,,1441220721,,Race,0,,,White,,0
+2975216597,249651435,0,2018-04-14,2018-04-14T01:43:45Z,44814721,,No,4132135,0,0,,1441220721,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1735605285,249651435,0,2018-04-14,2018-04-14T02:04:35Z,44814721,2.0,,0,0,0,,1441220721,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,2.0,,0
+1960868485,249651435,0,2018-04-14,2018-04-14T02:41:40Z,44814721,5.0,,0,0,0,,1441220721,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,5.0,,0
+3581666553,249651435,0,2018-04-14,2018-04-14T03:03:45Z,44814721,13.0,,0,0,0,,1441220721,,Patient Health Questionnaire 9 item (PHQ-9) total score [Reported],0,{score},,13.0,,0
+2883582025,249651435,0,2018-04-14,2018-04-14T03:35:47Z,44814721,0.0,,0,0,0,,1441220721,,Total score [AUDIT-C],0,{score},,0.0,,0
+1953355515,249651435,0,2020-04-18,2020-04-18T01:08:04Z,44814722,,Ex-smoker (finding),0,0,0,,2603132724,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+4236023359,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,No,4132135,0,0,,2603132724,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+3043058886,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,Yes,4188539,0,0,,2603132724,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+974316841,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,I choose not to answer this question,0,0,0,,2603132724,,Are you a refugee?,0,,,I choose not to answer this question,,0
+3631020206,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,No,4132135,0,0,,2603132724,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1721111151,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,Somewhat,0,0,0,,2603132724,,Stress level,0,,,Somewhat,,0
+483553951,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,5 or more times a week,0,0,0,,2603132724,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+3670100253,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,No,4132135,0,0,,2603132724,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+1799224142,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,Food,0,0,0,,2603132724,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+1415426669,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,29297.0,,0,0,0,,2603132724,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,29297,,0
+480120984,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,I choose not to answer this question,0,0,0,,2603132724,,Primary insurance,0,,,I choose not to answer this question,,0
+1243363554,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,Unemployed,0,0,0,,2603132724,,Employment status - current,0,,,Unemployed,,0
+3913749243,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,More than high school,0,0,0,,2603132724,,Highest level of education,0,,,More than high school,,0
+2008966376,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,Calle Cabrera 47 Escalera 74,0,0,0,,2603132724,,Address,0,,,Calle Cabrera 47 Escalera 74,,0
+2045916611,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,No,4132135,0,0,,2603132724,,Are you worried about losing your housing?,0,,,No,,0
+3645786939,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,I have housing,0,0,0,,2603132724,,Housing status,0,,,I have housing,,0
+2001394687,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,2.0,,0,0,0,,2603132724,,How many people are living or staying at this address?,0,{#},,2.0,,0
+710478187,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,English,0,0,0,,2603132724,,Preferred language,0,,,English,,0
+1146790912,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,No,4132135,0,0,,2603132724,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+806894798,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,No,4132135,0,0,,2603132724,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+3938227005,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,White,0,0,0,,2603132724,,Race,0,,,White,,0
+745652415,249651435,0,2020-04-18,2020-04-18T01:55:20Z,44814721,,No,4132135,0,0,,2603132724,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1670238913,249651435,0,2020-04-18,2020-04-18T02:33:54Z,44814721,2.0,,0,0,0,,2603132724,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,2.0,,0
+2736164572,249651435,0,2020-04-18,2020-04-18T03:09:01Z,44814721,1.0,,0,0,0,,2603132724,,Total score [DAST-10],0,{score},,1.0,,0
+1750564036,249651435,0,2022-04-23,2022-04-23T01:08:04Z,44814722,,Ex-smoker (finding),0,0,0,,3521303233,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+91294270,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,No,4132135,0,0,,3521303233,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+601481833,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,Yes,4188539,0,0,,3521303233,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+3119068532,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,No,4132135,0,0,,3521303233,,Are you a refugee?,0,,,No,,0
+2739097163,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,No,4132135,0,0,,3521303233,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+914068751,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,Not at all,0,0,0,,3521303233,,Stress level,0,,,Not at all,,0
+362466434,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,1 or 2 times a week,0,0,0,,3521303233,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,1 or 2 times a week,,0
+866155258,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,No,4132135,0,0,,3521303233,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+1539074116,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,Food,0,0,0,,3521303233,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+3503650041,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,29297.0,,0,0,0,,3521303233,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,29297,,0
+631592619,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,I choose not to answer this question,0,0,0,,3521303233,,Primary insurance,0,,,I choose not to answer this question,,0
+3751706540,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,Unemployed,0,0,0,,3521303233,,Employment status - current,0,,,Unemployed,,0
+3587639353,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,More than high school,0,0,0,,3521303233,,Highest level of education,0,,,More than high school,,0
+2317692154,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,Calle Cabrera 47 Escalera 74,0,0,0,,3521303233,,Address,0,,,Calle Cabrera 47 Escalera 74,,0
+280561983,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,No,4132135,0,0,,3521303233,,Are you worried about losing your housing?,0,,,No,,0
+1834104160,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,I have housing,0,0,0,,3521303233,,Housing status,0,,,I have housing,,0
+4210187042,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,2.0,,0,0,0,,3521303233,,How many people are living or staying at this address?,0,{#},,2.0,,0
+2334575905,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,English,0,0,0,,3521303233,,Preferred language,0,,,English,,0
+4098395251,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,No,4132135,0,0,,3521303233,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+3773154455,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,No,4132135,0,0,,3521303233,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+3562555756,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,White,0,0,0,,3521303233,,Race,0,,,White,,0
+3812070561,249651435,0,2022-04-23,2022-04-23T01:49:04Z,44814721,,No,4132135,0,0,,3521303233,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+3655988739,249651435,0,2022-04-23,2022-04-23T02:08:03Z,44814721,3.0,,0,0,0,,3521303233,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,3.0,,0
+4079473966,249651435,0,2022-04-23,2022-04-23T02:47:00Z,44814721,1.0,,0,0,0,,3521303233,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+3154326629,249651435,0,2022-04-23,2022-04-23T03:18:53Z,44814721,0.0,,0,0,0,,3521303233,,Total score [DAST-10],0,{score},,0.0,,0
+3387868227,249651435,0,2024-04-27,2024-04-27T01:08:04Z,44814722,,Ex-smoker (finding),0,0,0,,924180502,,Tobacco smoking status,0,,,Ex-smoker (finding),,0
+249541445,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,No,4132135,0,0,,924180502,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+30602589,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,Yes,4188539,0,0,,924180502,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+2869763668,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,No,4132135,0,0,,924180502,,Are you a refugee?,0,,,No,,0
+3606893624,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,No,4132135,0,0,,924180502,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+844878100,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,Not at all,0,0,0,,924180502,,Stress level,0,,,Not at all,,0
+2562209939,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,5 or more times a week,0,0,0,,924180502,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+563369660,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,No,4132135,0,0,,924180502,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+1519082980,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,Food,0,0,0,,924180502,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+2322249841,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,29297.0,,0,0,0,,924180502,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,29297,,0
+405737372,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,I choose not to answer this question,0,0,0,,924180502,,Primary insurance,0,,,I choose not to answer this question,,0
+1838950723,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,Full-time work,0,0,0,,924180502,,Employment status - current,0,,,Full-time work,,0
+2261269280,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,More than high school,0,0,0,,924180502,,Highest level of education,0,,,More than high school,,0
+795035850,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,Calle Cabrera 47 Escalera 74,0,0,0,,924180502,,Address,0,,,Calle Cabrera 47 Escalera 74,,0
+1303137652,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,No,4132135,0,0,,924180502,,Are you worried about losing your housing?,0,,,No,,0
+2937015240,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,I have housing,0,0,0,,924180502,,Housing status,0,,,I have housing,,0
+1141826409,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,2.0,,0,0,0,,924180502,,How many people are living or staying at this address?,0,{#},,2.0,,0
+2644438309,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,English,0,0,0,,924180502,,Preferred language,0,,,English,,0
+2115949315,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,No,4132135,0,0,,924180502,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1267044082,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,No,4132135,0,0,,924180502,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+2668394971,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,White,0,0,0,,924180502,,Race,0,,,White,,0
+894459850,249651435,0,2024-04-27,2024-04-27T02:05:34Z,44814721,,No,4132135,0,0,,924180502,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+22580252,249651435,0,2024-04-27,2024-04-27T02:26:54Z,44814721,2.0,,0,0,0,,924180502,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,2.0,,0
+2758521146,2708212133,0,2015-10-31,2015-10-31T05:13:17Z,44814722,,Never smoked tobacco (finding),0,0,0,,896982729,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2703757057,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,No,4132135,0,0,,896982729,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+552414830,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,Yes,4188539,0,0,,896982729,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+1742197735,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,No,4132135,0,0,,896982729,,Are you a refugee?,0,,,No,,0
+1551859192,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,No,4132135,0,0,,896982729,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+2609963737,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,Somewhat,0,0,0,,896982729,,Stress level,0,,,Somewhat,,0
+3260947906,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,5 or more times a week,0,0,0,,896982729,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+3893443909,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,Yes  it has kept me from medical appointments or from getting my medications,0,0,0,,896982729,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from medical appointments or from getting my medications,,0
+1987101890,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,Food,0,0,0,,896982729,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+1080980974,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,11274.0,,0,0,0,,896982729,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,11274,,0
+2059325156,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,I choose not to answer this question,0,0,0,,896982729,,Primary insurance,0,,,I choose not to answer this question,,0
+162782443,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,Part-time or temporary work,0,0,0,,896982729,,Employment status - current,0,,,Part-time or temporary work,,0
+1358916327,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,More than high school,0,0,0,,896982729,,Highest level of education,0,,,More than high school,,0
+454027512,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,Subida Gallego 91,0,0,0,,896982729,,Address,0,,,Subida Gallego 91,,0
+1129128946,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,Yes,4188539,0,0,,896982729,,Are you worried about losing your housing?,0,,,Yes,,0
+1815017179,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,I have housing,0,0,0,,896982729,,Housing status,0,,,I have housing,,0
+2238652251,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,1.0,,0,0,0,,896982729,,How many people are living or staying at this address?,0,{#},,1.0,,0
+2769128008,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,English,0,0,0,,896982729,,Preferred language,0,,,English,,0
+2699943925,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,No,4132135,0,0,,896982729,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+2079834741,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,Yes,4188539,0,0,,896982729,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,Yes,,0
+1310241465,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,White,0,0,0,,896982729,,Race,0,,,White,,0
+2417915017,2708212133,0,2015-10-31,2015-10-31T05:56:49Z,44814721,,No,4132135,0,0,,896982729,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2585502954,2708212133,0,2015-10-31,2015-10-31T06:33:51Z,44814721,1.0,,0,0,0,,896982729,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+3015880846,2708212133,0,2015-10-31,2015-10-31T07:13:34Z,44814721,1.0,,0,0,0,,896982729,,Total score [DAST-10],0,{score},,1.0,,0
+1963599222,2708212133,0,2017-11-04,2017-11-04T05:13:17Z,44814722,,Never smoked tobacco (finding),0,0,0,,1324006464,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2878358477,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,No,4132135,0,0,,1324006464,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+2013961104,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,No,4132135,0,0,,1324006464,,Do you feel physically and emotionally safe where you currently live?,0,,,No,,0
+4195911607,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,No,4132135,0,0,,1324006464,,Are you a refugee?,0,,,No,,0
+1342364713,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,No,4132135,0,0,,1324006464,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1597226918,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,Not at all,0,0,0,,1324006464,,Stress level,0,,,Not at all,,0
+1627004072,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,3 to 5 times a week,0,0,0,,1324006464,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+2802623107,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,Yes  it has kept me from medical appointments or from getting my medications,0,0,0,,1324006464,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from medical appointments or from getting my medications,,0
+2348746761,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,Food,0,0,0,,1324006464,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+3911610234,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,11274.0,,0,0,0,,1324006464,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,11274,,0
+787617388,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,I choose not to answer this question,0,0,0,,1324006464,,Primary insurance,0,,,I choose not to answer this question,,0
+1792457066,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,Unemployed,0,0,0,,1324006464,,Employment status - current,0,,,Unemployed,,0
+1612013750,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,More than high school,0,0,0,,1324006464,,Highest level of education,0,,,More than high school,,0
+2336268447,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,Subida Gallego 91,0,0,0,,1324006464,,Address,0,,,Subida Gallego 91,,0
+3407917986,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,Yes,4188539,0,0,,1324006464,,Are you worried about losing your housing?,0,,,Yes,,0
+29073437,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,I have housing,0,0,0,,1324006464,,Housing status,0,,,I have housing,,0
+1824657383,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,1.0,,0,0,0,,1324006464,,How many people are living or staying at this address?,0,{#},,1.0,,0
+4176711250,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,English,0,0,0,,1324006464,,Preferred language,0,,,English,,0
+1877985263,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,No,4132135,0,0,,1324006464,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+3710605757,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,Yes,4188539,0,0,,1324006464,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,Yes,,0
+866324887,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,White,0,0,0,,1324006464,,Race,0,,,White,,0
+2614308163,2708212133,0,2017-11-04,2017-11-04T06:09:40Z,44814721,,No,4132135,0,0,,1324006464,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2434329307,2708212133,0,2017-11-04,2017-11-04T06:33:39Z,44814721,10.0,,0,0,0,,1324006464,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,10.0,,0
+1341474440,2708212133,0,2017-11-04,2017-11-04T07:06:58Z,44814721,1.0,,0,0,0,,1324006464,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+3627252964,2708212133,0,2017-11-04,2017-11-04T07:43:56Z,44814721,2.0,,0,0,0,,1324006464,,Total score [DAST-10],0,{score},,2.0,,0
+2415531202,2708212133,0,2019-11-09,2019-11-09T05:13:17Z,44814722,,Never smoked tobacco (finding),0,0,0,,4154278606,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+70500170,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,No,4132135,0,0,,4154278606,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+835605604,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,Yes,4188539,0,0,,4154278606,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+3369122618,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,No,4132135,0,0,,4154278606,,Are you a refugee?,0,,,No,,0
+489821892,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,No,4132135,0,0,,4154278606,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+3341729191,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,Somewhat,0,0,0,,4154278606,,Stress level,0,,,Somewhat,,0
+2625682879,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,5 or more times a week,0,0,0,,4154278606,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+2798592891,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,0,0,0,,4154278606,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,0
+928625319,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,Food,0,0,0,,4154278606,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+4139333297,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,11274.0,,0,0,0,,4154278606,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,11274,,0
+2579497766,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,I choose not to answer this question,0,0,0,,4154278606,,Primary insurance,0,,,I choose not to answer this question,,0
+2644641659,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,Full-time work,0,0,0,,4154278606,,Employment status - current,0,,,Full-time work,,0
+2087704958,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,More than high school,0,0,0,,4154278606,,Highest level of education,0,,,More than high school,,0
+904445482,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,Subida Gallego 91,0,0,0,,4154278606,,Address,0,,,Subida Gallego 91,,0
+1106256941,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,Yes,4188539,0,0,,4154278606,,Are you worried about losing your housing?,0,,,Yes,,0
+1402538847,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,I have housing,0,0,0,,4154278606,,Housing status,0,,,I have housing,,0
+549116927,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,1.0,,0,0,0,,4154278606,,How many people are living or staying at this address?,0,{#},,1.0,,0
+452697985,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,English,0,0,0,,4154278606,,Preferred language,0,,,English,,0
+1188979444,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,No,4132135,0,0,,4154278606,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+3368895439,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,No,4132135,0,0,,4154278606,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+4012627418,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,White,0,0,0,,4154278606,,Race,0,,,White,,0
+2942369418,2708212133,0,2019-11-09,2019-11-09T06:11:14Z,44814721,,No,4132135,0,0,,4154278606,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+3633979094,2708212133,0,2019-11-09,2019-11-09T06:56:11Z,44814721,0.0,,0,0,0,,4154278606,,Total score [HARK],0,{score},,0.0,,0
+1113937371,2708212133,0,2019-11-09,2019-11-09T07:28:03Z,44814721,1.0,,0,0,0,,4154278606,,Total score [DAST-10],0,{score},,1.0,,0
+2498589408,2708212133,0,2021-11-13,2021-11-13T05:13:17Z,44814722,,Never smoked tobacco (finding),0,0,0,,681890206,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3456437855,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,No,4132135,0,0,,681890206,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+3610095583,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,Yes,4188539,0,0,,681890206,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+935726429,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,No,4132135,0,0,,681890206,,Are you a refugee?,0,,,No,,0
+1480301207,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,No,4132135,0,0,,681890206,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+191024703,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,Not at all,0,0,0,,681890206,,Stress level,0,,,Not at all,,0
+1218963158,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,3 to 5 times a week,0,0,0,,681890206,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+1444212425,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,0,0,0,,681890206,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,0
+1591351169,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,Food,0,0,0,,681890206,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+2815768054,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,11274.0,,0,0,0,,681890206,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,11274,,0
+1345358215,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,I choose not to answer this question,0,0,0,,681890206,,Primary insurance,0,,,I choose not to answer this question,,0
+1631687388,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,Full-time work,0,0,0,,681890206,,Employment status - current,0,,,Full-time work,,0
+2663619008,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,More than high school,0,0,0,,681890206,,Highest level of education,0,,,More than high school,,0
+2011268378,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,Subida Gallego 91,0,0,0,,681890206,,Address,0,,,Subida Gallego 91,,0
+3545152666,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,Yes,4188539,0,0,,681890206,,Are you worried about losing your housing?,0,,,Yes,,0
+2693907840,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,I have housing,0,0,0,,681890206,,Housing status,0,,,I have housing,,0
+4146875427,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,1.0,,0,0,0,,681890206,,How many people are living or staying at this address?,0,{#},,1.0,,0
+2885355568,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,English,0,0,0,,681890206,,Preferred language,0,,,English,,0
+1852493744,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,No,4132135,0,0,,681890206,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+797667354,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,Yes,4188539,0,0,,681890206,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,Yes,,0
+3857234548,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,White,0,0,0,,681890206,,Race,0,,,White,,0
+3588746241,2708212133,0,2021-11-13,2021-11-13T06:05:59Z,44814721,,No,4132135,0,0,,681890206,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1437227424,2708212133,0,2021-11-13,2021-11-13T06:46:39Z,44814721,1.0,,0,0,0,,681890206,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+1008998423,2708212133,0,2021-11-13,2021-11-13T07:18:56Z,44814721,1.0,,0,0,0,,681890206,,Total score [DAST-10],0,{score},,1.0,,0
+2907450629,2708212133,0,2023-10-21,2023-10-21T05:13:17Z,44814722,,Never smoked tobacco (finding),0,0,0,,3789382560,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1796729945,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,No,4132135,0,0,,3789382560,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+3472857213,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,Yes,4188539,0,0,,3789382560,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+2757176187,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,No,4132135,0,0,,3789382560,,Are you a refugee?,0,,,No,,0
+173316762,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,No,4132135,0,0,,3789382560,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+3478164718,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,I choose not to answer this question,0,0,0,,3789382560,,Stress level,0,,,I choose not to answer this question,,0
+1903464358,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,5 or more times a week,0,0,0,,3789382560,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+3128950781,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,0,0,0,,3789382560,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,0
+2124863190,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,Food,0,0,0,,3789382560,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+630805941,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,11274.0,,0,0,0,,3789382560,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,11274,,0
+3760644906,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,I choose not to answer this question,0,0,0,,3789382560,,Primary insurance,0,,,I choose not to answer this question,,0
+507832174,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,Full-time work,0,0,0,,3789382560,,Employment status - current,0,,,Full-time work,,0
+505439597,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,More than high school,0,0,0,,3789382560,,Highest level of education,0,,,More than high school,,0
+2579702669,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,Subida Gallego 91,0,0,0,,3789382560,,Address,0,,,Subida Gallego 91,,0
+3612951513,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,Yes,4188539,0,0,,3789382560,,Are you worried about losing your housing?,0,,,Yes,,0
+2115642105,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,I have housing,0,0,0,,3789382560,,Housing status,0,,,I have housing,,0
+2537325545,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,1.0,,0,0,0,,3789382560,,How many people are living or staying at this address?,0,{#},,1.0,,0
+1855254259,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,English,0,0,0,,3789382560,,Preferred language,0,,,English,,0
+1804820764,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,No,4132135,0,0,,3789382560,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+624747953,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,No,4132135,0,0,,3789382560,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+3396121453,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,White,0,0,0,,3789382560,,Race,0,,,White,,0
+444675309,2708212133,0,2023-10-21,2023-10-21T05:50:00Z,44814721,,No,4132135,0,0,,3789382560,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+3456794522,2708212133,0,2023-10-21,2023-10-21T06:30:24Z,44814721,0.0,,0,0,0,,3789382560,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,0.0,,0
+872345900,2708212133,0,2023-10-21,2023-10-21T07:05:50Z,44814721,1.0,,0,0,0,,3789382560,,Total score [AUDIT-C],0,{score},,1.0,,0
+3680116809,661705251,0,2016-03-01,2016-03-01T18:59:55Z,44814722,,Never smoked tobacco (finding),0,0,0,,2875708588,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3032681693,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,No,4132135,0,0,,2875708588,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+799064740,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,Yes,4188539,0,0,,2875708588,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+795287522,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,No,4132135,0,0,,2875708588,,Are you a refugee?,0,,,No,,0
+3903477594,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,No,4132135,0,0,,2875708588,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1148305478,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,A little bit,0,0,0,,2875708588,,Stress level,0,,,A little bit,,0
+209897039,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,1 or 2 times a week,0,0,0,,2875708588,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,1 or 2 times a week,,0
+2530475260,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,No,4132135,0,0,,2875708588,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+4126566948,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,Food,0,0,0,,2875708588,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+2245334210,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,16661.0,,0,0,0,,2875708588,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,16661,,0
+2292191914,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,I choose not to answer this question,0,0,0,,2875708588,,Primary insurance,0,,,I choose not to answer this question,,0
+837773094,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,Unemployed,0,0,0,,2875708588,,Employment status - current,0,,,Unemployed,,0
+4177298326,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,Less than high school degree,0,0,0,,2875708588,,Highest level of education,0,,,Less than high school degree,,0
+72663954,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,Calle Campos 28 Escalera 18,0,0,0,,2875708588,,Address,0,,,Calle Campos 28 Escalera 18,,0
+1614958352,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,Yes,4188539,0,0,,2875708588,,Are you worried about losing your housing?,0,,,Yes,,0
+1256867346,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,I have housing,0,0,0,,2875708588,,Housing status,0,,,I have housing,,0
+3861574479,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,8.0,,0,0,0,,2875708588,,How many people are living or staying at this address?,0,{#},,8.0,,0
+3136616525,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,English,0,0,0,,2875708588,,Preferred language,0,,,English,,0
+493408313,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,No,4132135,0,0,,2875708588,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1255113183,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,No,4132135,0,0,,2875708588,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+4138038088,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,White,0,0,0,,2875708588,,Race,0,,,White,,0
+847181607,661705251,0,2016-03-01,2016-03-01T19:55:53Z,44814721,,No,4132135,0,0,,2875708588,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1488727672,661705251,0,2016-03-01,2016-03-01T20:11:04Z,44814721,0.0,,0,0,0,,2875708588,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,0.0,,0
+78157214,2708212133,0,2024-10-26,2024-10-26T05:13:17Z,44814722,,Never smoked tobacco (finding),0,0,0,,1824603503,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2960369566,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,No,4132135,0,0,,1824603503,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+1782631788,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,Yes,4188539,0,0,,1824603503,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+2549253082,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,No,4132135,0,0,,1824603503,,Are you a refugee?,0,,,No,,0
+4149137001,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,No,4132135,0,0,,1824603503,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+2907704359,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,Not at all,0,0,0,,1824603503,,Stress level,0,,,Not at all,,0
+477025316,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,5 or more times a week,0,0,0,,1824603503,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+1794887717,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,0,0,0,,1824603503,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,0
+4126198955,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,Food,0,0,0,,1824603503,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+8507704,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,11274.0,,0,0,0,,1824603503,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,11274,,0
+1485297689,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,I choose not to answer this question,0,0,0,,1824603503,,Primary insurance,0,,,I choose not to answer this question,,0
+557865409,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,Full-time work,0,0,0,,1824603503,,Employment status - current,0,,,Full-time work,,0
+1938420947,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,More than high school,0,0,0,,1824603503,,Highest level of education,0,,,More than high school,,0
+922063678,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,Subida Gallego 91,0,0,0,,1824603503,,Address,0,,,Subida Gallego 91,,0
+3675643901,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,Yes,4188539,0,0,,1824603503,,Are you worried about losing your housing?,0,,,Yes,,0
+3363699589,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,I have housing,0,0,0,,1824603503,,Housing status,0,,,I have housing,,0
+3563976350,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,1.0,,0,0,0,,1824603503,,How many people are living or staying at this address?,0,{#},,1.0,,0
+1581847179,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,English,0,0,0,,1824603503,,Preferred language,0,,,English,,0
+3163217135,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,No,4132135,0,0,,1824603503,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1173056301,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,No,4132135,0,0,,1824603503,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+3555893926,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,White,0,0,0,,1824603503,,Race,0,,,White,,0
+2869606443,2708212133,0,2024-10-26,2024-10-26T06:06:14Z,44814721,,No,4132135,0,0,,1824603503,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+313886725,2708212133,0,2024-10-26,2024-10-26T06:40:54Z,44814721,0.0,,0,0,0,,1824603503,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,0.0,,0
+271209542,2708212133,0,2024-10-26,2024-10-26T07:18:44Z,44814721,2.0,,0,0,0,,1824603503,,Total score [AUDIT-C],0,{score},,2.0,,0
+3374986593,661705251,0,2017-03-07,2017-03-07T18:59:55Z,44814722,,Never smoked tobacco (finding),0,0,0,,4270320966,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2987962036,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,No,4132135,0,0,,4270320966,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+4165751506,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,Yes,4188539,0,0,,4270320966,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+2686006969,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,No,4132135,0,0,,4270320966,,Are you a refugee?,0,,,No,,0
+593481198,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,No,4132135,0,0,,4270320966,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1670427150,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,Not at all,0,0,0,,4270320966,,Stress level,0,,,Not at all,,0
+2759172224,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,5 or more times a week,0,0,0,,4270320966,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+2435186953,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,No,4132135,0,0,,4270320966,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+938290876,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,Food,0,0,0,,4270320966,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+305728604,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,16661.0,,0,0,0,,4270320966,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,16661,,0
+3669594577,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,I choose not to answer this question,0,0,0,,4270320966,,Primary insurance,0,,,I choose not to answer this question,,0
+722791332,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,Unemployed,0,0,0,,4270320966,,Employment status - current,0,,,Unemployed,,0
+1173669789,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,Less than high school degree,0,0,0,,4270320966,,Highest level of education,0,,,Less than high school degree,,0
+96845873,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,Calle Campos 28 Escalera 18,0,0,0,,4270320966,,Address,0,,,Calle Campos 28 Escalera 18,,0
+284289504,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,Yes,4188539,0,0,,4270320966,,Are you worried about losing your housing?,0,,,Yes,,0
+1232351752,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,I have housing,0,0,0,,4270320966,,Housing status,0,,,I have housing,,0
+2709396103,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,8.0,,0,0,0,,4270320966,,How many people are living or staying at this address?,0,{#},,8.0,,0
+635082089,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,English,0,0,0,,4270320966,,Preferred language,0,,,English,,0
+367649342,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,No,4132135,0,0,,4270320966,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1756411665,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,Yes,4188539,0,0,,4270320966,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,Yes,,0
+2650953780,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,White,0,0,0,,4270320966,,Race,0,,,White,,0
+1885028881,661705251,0,2017-03-07,2017-03-07T19:39:18Z,44814721,,No,4132135,0,0,,4270320966,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+3524456005,661705251,0,2017-03-07,2017-03-07T20:03:50Z,44814721,1.0,,0,0,0,,4270320966,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,1.0,,0
+3095241937,661705251,0,2017-03-07,2017-03-07T20:35:28Z,44814721,4.0,,0,0,0,,4270320966,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,4.0,,0
+2509287797,661705251,0,2017-03-07,2017-03-07T20:57:17Z,44814721,6.0,,0,0,0,,4270320966,,Patient Health Questionnaire 9 item (PHQ-9) total score [Reported],0,{score},,6.0,,0
+463316718,661705251,0,2018-03-13,2018-03-13T18:59:55Z,44814722,,Never smoked tobacco (finding),0,0,0,,252432060,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2646382661,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,No,4132135,0,0,,252432060,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+774130188,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,Yes,4188539,0,0,,252432060,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+1828901970,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,No,4132135,0,0,,252432060,,Are you a refugee?,0,,,No,,0
+319485158,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,No,4132135,0,0,,252432060,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+2148064090,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,A little bit,0,0,0,,252432060,,Stress level,0,,,A little bit,,0
+4100298056,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,3 to 5 times a week,0,0,0,,252432060,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+211799043,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,No,4132135,0,0,,252432060,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+581089580,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,Food,0,0,0,,252432060,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+2467044593,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,16661.0,,0,0,0,,252432060,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,16661,,0
+2707692819,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,I choose not to answer this question,0,0,0,,252432060,,Primary insurance,0,,,I choose not to answer this question,,0
+3051754834,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,Full-time work,0,0,0,,252432060,,Employment status - current,0,,,Full-time work,,0
+3526298534,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,Less than high school degree,0,0,0,,252432060,,Highest level of education,0,,,Less than high school degree,,0
+430528659,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,Calle Campos 28 Escalera 18,0,0,0,,252432060,,Address,0,,,Calle Campos 28 Escalera 18,,0
+1316232615,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,Yes,4188539,0,0,,252432060,,Are you worried about losing your housing?,0,,,Yes,,0
+1035136313,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,I have housing,0,0,0,,252432060,,Housing status,0,,,I have housing,,0
+1224904383,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,8.0,,0,0,0,,252432060,,How many people are living or staying at this address?,0,{#},,8.0,,0
+254671579,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,English,0,0,0,,252432060,,Preferred language,0,,,English,,0
+2000224812,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,No,4132135,0,0,,252432060,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+3012777135,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,Yes,4188539,0,0,,252432060,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,Yes,,0
+3427547121,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,White,0,0,0,,252432060,,Race,0,,,White,,0
+3849813603,661705251,0,2018-03-13,2018-03-13T19:34:22Z,44814721,,No,4132135,0,0,,252432060,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+3182676785,661705251,0,2018-03-13,2018-03-13T20:03:41Z,44814721,2.0,,0,0,0,,252432060,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,2.0,,0
+1846501660,661705251,0,2018-03-13,2018-03-13T20:43:51Z,44814721,1.0,,0,0,0,,252432060,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+471487627,661705251,0,2019-03-19,2019-03-19T18:59:55Z,44814722,,Never smoked tobacco (finding),0,0,0,,349708058,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+483388765,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,No,4132135,0,0,,349708058,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+566936533,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,Yes,4188539,0,0,,349708058,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+3368230754,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,No,4132135,0,0,,349708058,,Are you a refugee?,0,,,No,,0
+3504968744,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,No,4132135,0,0,,349708058,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+2450128140,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,A little bit,0,0,0,,349708058,,Stress level,0,,,A little bit,,0
+2059405067,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,5 or more times a week,0,0,0,,349708058,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+3910250629,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,No,4132135,0,0,,349708058,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+2192272802,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,Food,0,0,0,,349708058,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+4006683904,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,16661.0,,0,0,0,,349708058,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,16661,,0
+2283993249,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,I choose not to answer this question,0,0,0,,349708058,,Primary insurance,0,,,I choose not to answer this question,,0
+2138648003,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,Full-time work,0,0,0,,349708058,,Employment status - current,0,,,Full-time work,,0
+1167514468,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,Less than high school degree,0,0,0,,349708058,,Highest level of education,0,,,Less than high school degree,,0
+1429407777,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,Calle Campos 28 Escalera 18,0,0,0,,349708058,,Address,0,,,Calle Campos 28 Escalera 18,,0
+36694258,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,Yes,4188539,0,0,,349708058,,Are you worried about losing your housing?,0,,,Yes,,0
+878857579,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,I have housing,0,0,0,,349708058,,Housing status,0,,,I have housing,,0
+3525345042,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,8.0,,0,0,0,,349708058,,How many people are living or staying at this address?,0,{#},,8.0,,0
+839762323,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,English,0,0,0,,349708058,,Preferred language,0,,,English,,0
+1175927661,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,No,4132135,0,0,,349708058,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+4153035424,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,Yes,4188539,0,0,,349708058,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,Yes,,0
+3671865942,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,White,0,0,0,,349708058,,Race,0,,,White,,0
+4219008488,661705251,0,2019-03-19,2019-03-19T19:41:26Z,44814721,,No,4132135,0,0,,349708058,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+4160913763,661705251,0,2019-03-19,2019-03-19T20:22:04Z,44814721,1.0,,0,0,0,,349708058,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+3303646520,661705251,0,2020-03-24,2020-03-24T18:59:55Z,44814722,,Never smoked tobacco (finding),0,0,0,,406316138,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+3172969631,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,No,4132135,0,0,,406316138,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+4098386354,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,Yes,4188539,0,0,,406316138,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+805288842,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,No,4132135,0,0,,406316138,,Are you a refugee?,0,,,No,,0
+2202856680,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,No,4132135,0,0,,406316138,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1790840678,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,Not at all,0,0,0,,406316138,,Stress level,0,,,Not at all,,0
+2208109580,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,5 or more times a week,0,0,0,,406316138,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+3198766035,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,No,4132135,0,0,,406316138,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+222054086,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,Food,0,0,0,,406316138,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+458002347,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,16661.0,,0,0,0,,406316138,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,16661,,0
+1024788641,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,I choose not to answer this question,0,0,0,,406316138,,Primary insurance,0,,,I choose not to answer this question,,0
+4229638198,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,Unemployed,0,0,0,,406316138,,Employment status - current,0,,,Unemployed,,0
+251948524,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,Less than high school degree,0,0,0,,406316138,,Highest level of education,0,,,Less than high school degree,,0
+1256101014,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,Calle Campos 28 Escalera 18,0,0,0,,406316138,,Address,0,,,Calle Campos 28 Escalera 18,,0
+422608360,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,Yes,4188539,0,0,,406316138,,Are you worried about losing your housing?,0,,,Yes,,0
+1792618605,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,I have housing,0,0,0,,406316138,,Housing status,0,,,I have housing,,0
+1157590272,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,8.0,,0,0,0,,406316138,,How many people are living or staying at this address?,0,{#},,8.0,,0
+1261780090,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,English,0,0,0,,406316138,,Preferred language,0,,,English,,0
+2121734784,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,No,4132135,0,0,,406316138,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+4267328170,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,No,4132135,0,0,,406316138,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+2281318293,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,White,0,0,0,,406316138,,Race,0,,,White,,0
+100895227,661705251,0,2020-03-24,2020-03-24T19:56:58Z,44814721,,No,4132135,0,0,,406316138,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1698964322,661705251,0,2020-03-24,2020-03-24T20:30:10Z,44814721,2.0,,0,0,0,,406316138,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,2.0,,0
+2680224796,661705251,0,2021-03-30,2021-03-30T18:59:55Z,44814722,,Never smoked tobacco (finding),0,0,0,,3529571116,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+491216652,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,No,4132135,0,0,,3529571116,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+2621335262,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,Yes,4188539,0,0,,3529571116,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+282689748,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,No,4132135,0,0,,3529571116,,Are you a refugee?,0,,,No,,0
+1574594373,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,No,4132135,0,0,,3529571116,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1864333488,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,Not at all,0,0,0,,3529571116,,Stress level,0,,,Not at all,,0
+2967580548,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,5 or more times a week,0,0,0,,3529571116,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+2296897875,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,No,4132135,0,0,,3529571116,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+1179312556,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,Food,0,0,0,,3529571116,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+2431606328,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,16661.0,,0,0,0,,3529571116,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,16661,,0
+1814078653,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,I choose not to answer this question,0,0,0,,3529571116,,Primary insurance,0,,,I choose not to answer this question,,0
+4199104574,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,Unemployed,0,0,0,,3529571116,,Employment status - current,0,,,Unemployed,,0
+2879199349,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,Less than high school degree,0,0,0,,3529571116,,Highest level of education,0,,,Less than high school degree,,0
+1163180317,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,Calle Campos 28 Escalera 18,0,0,0,,3529571116,,Address,0,,,Calle Campos 28 Escalera 18,,0
+1657339585,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,Yes,4188539,0,0,,3529571116,,Are you worried about losing your housing?,0,,,Yes,,0
+1962314786,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,I have housing,0,0,0,,3529571116,,Housing status,0,,,I have housing,,0
+2104187377,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,8.0,,0,0,0,,3529571116,,How many people are living or staying at this address?,0,{#},,8.0,,0
+2111609657,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,English,0,0,0,,3529571116,,Preferred language,0,,,English,,0
+3712676035,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,No,4132135,0,0,,3529571116,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+1381215251,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,No,4132135,0,0,,3529571116,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+2075691922,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,White,0,0,0,,3529571116,,Race,0,,,White,,0
+135264191,661705251,0,2021-03-30,2021-03-30T19:30:02Z,44814721,,No,4132135,0,0,,3529571116,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+1400766836,661705251,0,2021-03-30,2021-03-30T20:04:47Z,44814721,1.0,,0,0,0,,3529571116,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+3130722392,661705251,0,2022-04-05,2022-04-05T18:59:55Z,44814722,,Never smoked tobacco (finding),0,0,0,,3242990782,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+1163316526,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,No,4132135,0,0,,3242990782,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+119433450,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,Yes,4188539,0,0,,3242990782,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+2768273553,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,I choose not to answer this question,0,0,0,,3242990782,,Are you a refugee?,0,,,I choose not to answer this question,,0
+277540317,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,No,4132135,0,0,,3242990782,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+1519079831,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,Not at all,0,0,0,,3242990782,,Stress level,0,,,Not at all,,0
+3201037598,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,5 or more times a week,0,0,0,,3242990782,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,5 or more times a week,,0
+321257673,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,No,4132135,0,0,,3242990782,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+1459827343,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,Food,0,0,0,,3242990782,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+2202421472,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,16661.0,,0,0,0,,3242990782,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,16661,,0
+83794448,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,I choose not to answer this question,0,0,0,,3242990782,,Primary insurance,0,,,I choose not to answer this question,,0
+2253249214,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,Unemployed,0,0,0,,3242990782,,Employment status - current,0,,,Unemployed,,0
+3765934022,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,Less than high school degree,0,0,0,,3242990782,,Highest level of education,0,,,Less than high school degree,,0
+807503583,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,Calle Campos 28 Escalera 18,0,0,0,,3242990782,,Address,0,,,Calle Campos 28 Escalera 18,,0
+2662500757,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,Yes,4188539,0,0,,3242990782,,Are you worried about losing your housing?,0,,,Yes,,0
+2585871294,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,I have housing,0,0,0,,3242990782,,Housing status,0,,,I have housing,,0
+1107842748,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,8.0,,0,0,0,,3242990782,,How many people are living or staying at this address?,0,{#},,8.0,,0
+896069532,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,English,0,0,0,,3242990782,,Preferred language,0,,,English,,0
+3979883276,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,No,4132135,0,0,,3242990782,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+2181908191,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,No,4132135,0,0,,3242990782,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+1500684778,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,White,0,0,0,,3242990782,,Race,0,,,White,,0
+2411524278,661705251,0,2022-04-05,2022-04-05T19:53:15Z,44814721,,No,4132135,0,0,,3242990782,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2443740225,661705251,0,2023-04-11,2023-04-11T18:59:55Z,44814722,,Never smoked tobacco (finding),0,0,0,,1045225923,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+449599925,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,No,4132135,0,0,,1045225923,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+3458016327,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,Yes,4188539,0,0,,1045225923,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+3673739706,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,No,4132135,0,0,,1045225923,,Are you a refugee?,0,,,No,,0
+1061802861,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,No,4132135,0,0,,1045225923,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+3523584960,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,Somewhat,0,0,0,,1045225923,,Stress level,0,,,Somewhat,,0
+241313253,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,3 to 5 times a week,0,0,0,,1045225923,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+3380553476,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,No,4132135,0,0,,1045225923,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+2695264579,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,Food,0,0,0,,1045225923,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+1887250149,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,16661.0,,0,0,0,,1045225923,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,16661,,0
+3815481407,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,I choose not to answer this question,0,0,0,,1045225923,,Primary insurance,0,,,I choose not to answer this question,,0
+1217645457,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,Full-time work,0,0,0,,1045225923,,Employment status - current,0,,,Full-time work,,0
+3411040368,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,Less than high school degree,0,0,0,,1045225923,,Highest level of education,0,,,Less than high school degree,,0
+389064297,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,Calle Campos 28 Escalera 18,0,0,0,,1045225923,,Address,0,,,Calle Campos 28 Escalera 18,,0
+3947557076,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,Yes,4188539,0,0,,1045225923,,Are you worried about losing your housing?,0,,,Yes,,0
+215903170,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,I have housing,0,0,0,,1045225923,,Housing status,0,,,I have housing,,0
+809920295,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,8.0,,0,0,0,,1045225923,,How many people are living or staying at this address?,0,{#},,8.0,,0
+3793777323,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,English,0,0,0,,1045225923,,Preferred language,0,,,English,,0
+1649359507,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,No,4132135,0,0,,1045225923,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+3796526511,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,No,4132135,0,0,,1045225923,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0
+453839589,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,White,0,0,0,,1045225923,,Race,0,,,White,,0
+3763291847,661705251,0,2023-04-11,2023-04-11T19:47:35Z,44814721,,No,4132135,0,0,,1045225923,,Do you consider yourself Hispanic/Latino?,0,,,No,,0
+2710593705,661705251,0,2023-04-11,2023-04-11T20:08:33Z,44814721,2.0,,0,0,0,,1045225923,,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0,{score},,2.0,,0
+3449737107,661705251,0,2023-04-11,2023-04-11T20:34:17Z,44814721,0.0,,0,0,0,,1045225923,,Total score [HARK],0,{score},,0.0,,0
+800837220,661705251,0,2023-04-11,2023-04-11T21:09:56Z,44814721,1.0,,0,0,0,,1045225923,,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0,{score},,1.0,,0
+3562775820,661705251,0,2024-04-16,2024-04-16T18:59:55Z,44814722,,Never smoked tobacco (finding),0,0,0,,635962162,,Tobacco smoking status,0,,,Never smoked tobacco (finding),,0
+2561993154,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,No,4132135,0,0,,635962162,,Within the last year  have you been afraid of your partner or ex-partner?,0,,,No,,0
+3985970548,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,Yes,4188539,0,0,,635962162,,Do you feel physically and emotionally safe where you currently live?,0,,,Yes,,0
+3610642003,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,No,4132135,0,0,,635962162,,Are you a refugee?,0,,,No,,0
+1128954079,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,No,4132135,0,0,,635962162,,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,0,,,No,,0
+3408277312,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,Not at all,0,0,0,,635962162,,Stress level,0,,,Not at all,,0
+1306877438,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,3 to 5 times a week,0,0,0,,635962162,,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,0,,,3 to 5 times a week,,0
+962175358,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,No,4132135,0,0,,635962162,,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,0,,,No,,0
+969137648,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,Food,0,0,0,,635962162,,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,0,,,Food,,0
+68064496,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,16661.0,,0,0,0,,635962162,,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,0,/a,,16661,,0
+2434772468,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,I choose not to answer this question,0,0,0,,635962162,,Primary insurance,0,,,I choose not to answer this question,,0
+1819924536,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,Full-time work,0,0,0,,635962162,,Employment status - current,0,,,Full-time work,,0
+1709158804,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,Less than high school degree,0,0,0,,635962162,,Highest level of education,0,,,Less than high school degree,,0
+903193320,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,Calle Campos 28 Escalera 18,0,0,0,,635962162,,Address,0,,,Calle Campos 28 Escalera 18,,0
+2601528096,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,Yes,4188539,0,0,,635962162,,Are you worried about losing your housing?,0,,,Yes,,0
+2520111200,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,I have housing,0,0,0,,635962162,,Housing status,0,,,I have housing,,0
+2155318138,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,8.0,,0,0,0,,635962162,,How many people are living or staying at this address?,0,{#},,8.0,,0
+2555653756,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,English,0,0,0,,635962162,,Preferred language,0,,,English,,0
+319387418,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,No,4132135,0,0,,635962162,,Have you been discharged from the armed forces of the United States?,0,,,No,,0
+252142328,661705251,0,2024-04-16,2024-04-16T19:45:12Z,44814721,,No,4132135,0,0,,635962162,,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,0,,,No,,0

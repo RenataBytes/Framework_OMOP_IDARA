@@ -1,0 +1,55 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION
+2024-04-26 12:01:42,,patient_001,enc_003,235919008,Gallstone disease
+2024-04-26 12:01:42,,patient_001,enc_003,24526004,Inflammatory bowel disease
+2024-04-26 12:01:42,,patient_001,enc_003,13200003,Peptic ulcer disease
+2024-01-10 12:01:42,,patient_002,enc_005,235595009,Gastroesophageal reflux disease
+2025-03-05 12:01:42,2025-06-14 12:01:42,patient_002,enc_006,4556007,Gastritis
+2025-03-05 12:01:42,2025-07-03 12:01:42,patient_002,enc_006,4556007,Gastritis
+2023-12-26 12:01:42,2024-04-05 12:01:42,patient_003,enc_011,307496006,Diverticular disease
+2024-03-11 12:01:42,2024-04-18 12:01:42,patient_004,enc_015,307496006,Diverticular disease
+2025-02-16 12:01:42,,patient_004,enc_013,13200003,Peptic ulcer disease
+2025-02-16 12:01:42,,patient_004,enc_013,235595009,Gastroesophageal reflux disease
+2024-04-24 12:01:42,,patient_005,enc_016,24526004,Inflammatory bowel disease
+2024-11-26 12:01:42,,patient_006,enc_019,235919008,Gallstone disease
+2024-04-19 12:01:42,,patient_006,enc_020,235595009,Gastroesophageal reflux disease
+2024-11-26 12:01:42,2025-04-23 12:01:42,patient_006,enc_019,10743008,Irritable bowel syndrome
+2023-09-20 12:01:42,,patient_007,enc_021,13200003,Peptic ulcer disease
+2023-09-19 12:01:42,2024-02-25 12:01:42,patient_008,enc_025,10743008,Irritable bowel syndrome
+2025-03-08 12:01:42,,patient_009,enc_028,10743008,Irritable bowel syndrome
+2024-05-06 12:01:42,,patient_010,enc_031,13200003,Peptic ulcer disease
+2024-11-07 12:01:42,2024-11-17 12:01:42,patient_011,enc_034,24526004,Inflammatory bowel disease
+2024-12-11 12:01:42,,patient_012,enc_038,64766004,Ulcerative colitis
+2025-01-13 12:01:42,2025-02-02 12:01:42,patient_012,enc_037,10743008,Irritable bowel syndrome
+2024-02-03 12:01:42,,patient_013,enc_040,34000006,Crohn disease
+2024-04-13 12:01:42,,patient_014,enc_041,235595009,Gastroesophageal reflux disease
+2024-04-13 12:01:42,,patient_014,enc_041,4556007,Gastritis
+2024-01-27 12:01:42,2024-07-09 12:01:42,patient_014,enc_043,10743008,Irritable bowel syndrome
+2023-11-27 12:01:42,,patient_015,enc_045,34000006,Crohn disease
+2024-02-22 12:01:42,2024-06-30 12:01:42,patient_016,enc_047,4556007,Gastritis
+2024-02-22 12:01:42,,patient_016,enc_047,4556007,Gastritis
+2024-10-05 12:01:42,,patient_016,enc_046,235919008,Gallstone disease
+2023-12-10 12:01:42,,patient_017,enc_049,4556007,Gastritis
+2023-09-12 12:01:42,,patient_018,enc_051,307496006,Diverticular disease
+2024-01-15 12:01:42,2024-07-02 12:01:42,patient_019,enc_056,235595009,Gastroesophageal reflux disease
+2024-05-11 12:01:42,,patient_020,enc_059,13200003,Peptic ulcer disease
+2024-05-11 12:01:42,,patient_020,enc_059,10743008,Irritable bowel syndrome
+2024-05-11 12:01:42,,patient_020,enc_059,235919008,Gallstone disease
+2024-06-14 12:01:42,2024-12-05 12:01:42,patient_021,enc_061,396331005,Celiac disease
+2025-06-23 12:01:42,,patient_022,enc_062,307496006,Diverticular disease
+2024-10-06 12:01:42,,patient_022,enc_063,13200003,Peptic ulcer disease
+2025-06-23 12:01:42,,patient_022,enc_062,307496006,Diverticular disease
+2025-05-28 12:01:42,,patient_023,enc_066,4556007,Gastritis
+2024-03-02 12:01:42,,patient_023,enc_064,34000006,Crohn disease
+2024-11-11 12:01:42,,patient_024,enc_067,10743008,Irritable bowel syndrome
+2024-11-11 12:01:42,2024-12-09 12:01:42,patient_024,enc_067,235595009,Gastroesophageal reflux disease
+2024-05-19 12:01:42,,patient_025,enc_070,4556007,Gastritis
+2024-05-01 12:01:42,,patient_026,enc_072,396331005,Celiac disease
+2024-05-01 12:01:42,,patient_026,enc_072,13200003,Peptic ulcer disease
+2023-12-26 12:01:42,,patient_027,enc_075,24526004,Inflammatory bowel disease
+2023-11-02 12:01:42,,patient_027,enc_076,4556007,Gastritis
+2025-08-04 12:01:42,,patient_028,enc_077,307496006,Diverticular disease
+2024-07-09 12:01:42,,patient_028,enc_078,34000006,Crohn disease
+2024-03-07 12:01:42,2024-07-15 12:01:42,patient_029,enc_082,235595009,Gastroesophageal reflux disease
+2024-03-07 12:01:42,2024-04-10 12:01:42,patient_029,enc_082,4556007,Gastritis
+2024-08-23 12:01:42,,patient_030,enc_083,307496006,Diverticular disease
+2024-11-02 12:01:42,,patient_030,enc_085,10743008,Irritable bowel syndrome

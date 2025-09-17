@@ -1,0 +1,99 @@
+care_site_id,care_site_name,place_of_service_concept_id,location_id,care_site_source_value,place_of_service_source_value
+4730267,Casa do Mar,8717,4690752,a63240a6-917f-333d-86a0-6e48a2beca76,Casa do Mar
+645061,Casa do Mar,8717,14744769,4c1624c3-bb86-3d8e-b032-7e640cd9d911,Casa do Mar
+8381775,Casa do Mar,8717,6186045,7df1d35b-4741-3685-a108-41c055fce7d8,Casa do Mar
+11857595,Casa do Mar,8717,8784303,92031345-f59f-32bb-bf00-a3121fe968d8,Casa do Mar
+2460352,Casa do Mar,8717,14495150,b358c018-3a23-31f3-88e7-1a2eab7ea1d4,Casa do Mar
+6961211,Casa do Mar,8717,16330987,78efff56-a2aa-3847-9dd7-076f2bc5ebb5,Casa do Mar
+320818,Casa do Mar,8717,2803495,f5ec18c2-a9e5-32ce-88b0-e528c184de5d,Casa do Mar
+5877745,Casa do Mar,8717,1159884,cef02be2-0943-380d-b5d8-c051fd503345,Casa do Mar
+724243,Casa do Mar,8717,7665425,c035ebf4-8ac3-3261-af33-1020e12b9058,Casa do Mar
+11968484,Centro Materno Infantil Nosa Sra. de Belén,8940,15011106,4634c67a-e1c9-38a1-a809-34dd57807c92,Centro Materno Infantil Nosa Sra. de Belén
+8184247,Centro Materno Infantil Nosa Sra. de Belén,8940,738684,f3dc0726-8a23-32f3-a234-dd5cb7d12556,Centro Materno Infantil Nosa Sra. de Belén
+13886974,Centro Materno Infantil Nosa Sra. de Belén,8940,16598510,dbc3fa8d-4a54-35c4-bd27-776e9dd1cdc6,Centro Materno Infantil Nosa Sra. de Belén
+12762699,Centro Salud Teis,8940,4891129,f535828b-8f93-33ba-b458-089712343000,Centro Salud Teis
+6685719,Centro Salud Teis,8940,11251129,2af66fb8-6b4d-333b-8ed3-1362fa75a0d5,Centro Salud Teis
+11923532,Centro Salud Teis,8940,1712149,4f5820c5-9548-363b-9958-5ed8f7f7360a,Centro Salud Teis
+7276008,Clínica San Rosendo,8940,12433113,457d29c1-ca08-3d93-80b5-835d05031882,Clínica San Rosendo
+13169956,Clínica San Rosendo,8940,3242814,97d945e2-152e-3a5b-9015-b6100ead48ef,Clínica San Rosendo
+5292318,Clínica San Rosendo,8940,6067282,83a10ae6-e74c-3f92-90a5-51868241ef17,Clínica San Rosendo
+12669236,Complexo Hospitalario Universitario da Coruña,8717,15884250,0b4c941f-a8ea-32ef-9471-6715e9610792,Complexo Hospitalario Universitario da Coruña
+10171088,Complexo Hospitalario Universitario da Coruña,8717,3144236,8b901946-5984-3d78-8ac3-eacf27fd1460,Complexo Hospitalario Universitario da Coruña
+11353545,Complexo Hospitalario Universitario da Coruña,8717,16752477,c555e723-45ec-325b-8730-d9b2a2bc9227,Complexo Hospitalario Universitario da Coruña
+11461077,Complexo Hospitalario Universitario de Ourense,8717,15771038,4622d809-379e-3b67-8e9f-7ee142d38bca,Complexo Hospitalario Universitario de Ourense
+8373907,Complexo Hospitalario Universitario de Ourense,8717,2924268,29093eaa-2fc7-3a3a-84ed-7ddff209857d,Complexo Hospitalario Universitario de Ourense
+13315528,Complexo Hospitalario Universitario de Ourense,8717,4079759,cf18fa5d-1b55-33d0-9482-194f16f71552,Complexo Hospitalario Universitario de Ourense
+13530746,Complexo Hospitalario Universitario de Santiago,8717,13166738,9058e393-9ab5-3398-b347-ee608d66ef7d,Complexo Hospitalario Universitario de Santiago
+14950369,Complexo Hospitalario Universitario de Santiago,8717,7817908,04092248-74b6-3fa7-aafa-cc6aa40f7dfb,Complexo Hospitalario Universitario de Santiago
+7424877,Complexo Hospitalario Universitario de Santiago,8717,2507904,de8ec4cd-ee0f-3f42-8f1e-885b619a6272,Complexo Hospitalario Universitario de Santiago
+862683,Hospital Arquitecto Marcide,8717,5617504,280f17a0-c480-3cd2-b3a0-0ab1b570bbe8,Hospital Arquitecto Marcide
+15208104,Hospital Arquitecto Marcide,8717,14543825,20afae9f-ff81-3bec-8c03-3e627199a64d,Hospital Arquitecto Marcide
+15834061,Hospital Arquitecto Marcide,8717,10386383,7dad080f-bee4-3416-af98-bfa370414938,Hospital Arquitecto Marcide
+8703463,Hospital Comarcal da Barbanza,8717,14543570,156f928d-9341-3512-ab3e-c1b5bdb78d8b,Hospital Comarcal da Barbanza
+4127045,Hospital Comarcal da Barbanza,8717,6247943,ff75d8ff-850a-347e-8a8c-2e1e2582e385,Hospital Comarcal da Barbanza
+3476231,Hospital Comarcal da Barbanza,8717,15963904,9b9332a6-f49c-3256-9ec3-36dbc47095ac,Hospital Comarcal da Barbanza
+11222566,Hospital Comarcal de Valdeorras,8717,10043433,0476d35b-3a3e-37c0-bbd2-fe274f6d90c6,Hospital Comarcal de Valdeorras
+8212594,Hospital Comarcal de Valdeorras,8717,14266129,f1f4c6ad-3ccc-31cc-b2bf-94f50cebb764,Hospital Comarcal de Valdeorras
+2017285,Hospital Comarcal de Valdeorras,8717,15408292,3c793435-9f9f-30e5-aa70-eb27f29bce2d,Hospital Comarcal de Valdeorras
+4666064,Hospital Comarcal do Salnés,8717,15709462,1e745d01-8e5f-36ef-8493-849f61b00f2c,Hospital Comarcal do Salnés
+13035299,Hospital Comarcal do Salnés,8717,12439040,5bc204f0-498c-3027-9eda-b795d77d1657,Hospital Comarcal do Salnés
+12774751,Hospital Comarcal do Salnés,8717,693876,be6cc89e-0df5-32d6-b5f1-39e2d09f24d2,Hospital Comarcal do Salnés
+16387922,Hospital da Costa,8717,12263846,883a297b-e2e7-3813-a481-2225b7a185a2,Hospital da Costa
+7116114,Hospital da Costa,8717,1098334,dab2a71c-ebbe-30d4-b219-0cb6129a291f,Hospital da Costa
+16312050,Hospital da Costa,8717,960617,288008aa-93dd-3b31-979c-316301c98c91,Hospital da Costa
+11261384,Hospital de Calde,8717,3464275,68545bd8-4606-3dbb-9c55-7dd6e40ff26c,Hospital de Calde
+6743236,Hospital de Calde,8717,10924293,c1353ea4-5438-3121-be0a-581d5360e649,Hospital de Calde
+10662417,Hospital de Calde,8717,980991,5e16745b-615a-37e9-853e-f6c7586d3aba,Hospital de Calde
+13178562,Hospital do Mexoeiro,8717,3352773,d8891f7b-8cf9-3754-a25a-1f5303300fe5,Hospital do Mexoeiro
+5643767,Hospital do Mexoeiro,8717,7927557,d522aafd-fd5a-34e7-ae01-e4815f52eda3,Hospital do Mexoeiro
+15822609,Hospital do Mexoeiro,8717,4656432,3022faac-567f-3eea-81aa-5d5795c6f8ac,Hospital do Mexoeiro
+12302761,Hospital Marítimo de Oza,8717,10713127,621403ab-90af-3ad3-af5a-08d414d005a2,Hospital Marítimo de Oza
+890297,Hospital Marítimo de Oza,8717,16222753,638afb56-f75b-32d5-a291-de284131cfcf,Hospital Marítimo de Oza
+9475112,Hospital Marítimo de Oza,8717,7722906,c7990cbe-6571-3e62-88b6-a37a248f5a9b,Hospital Marítimo de Oza
+10524787,Hospital Materno Infantil Teresa Herrera,8717,2228393,33c95ff5-9b38-3bf2-8778-72b62282f32c,Hospital Materno Infantil Teresa Herrera
+16149664,Hospital Materno Infantil Teresa Herrera,8717,10374123,4dac6d37-937e-32fb-8eea-495986ee7778,Hospital Materno Infantil Teresa Herrera
+7827705,Hospital Materno Infantil Teresa Herrera,8717,2764192,0512c495-371d-377b-a204-09d10aaf89e3,Hospital Materno Infantil Teresa Herrera
+5016006,Hospital Modelo,8717,9915311,48a2c884-a6c7-3cef-aa6c-8cd4cb66a977,Hospital Modelo
+3039140,Hospital Modelo,8717,13367075,aad1edb4-9947-3044-a6fa-37582a42bb85,Hospital Modelo
+14902675,Hospital Modelo,8717,16404609,05a868de-73f9-313a-8164-9911ec2d25f8,Hospital Modelo
+4341929,Hospital Montecelo,8717,10793469,326e66f2-d245-3bef-93b6-2025cab1633b,Hospital Montecelo
+9447503,Hospital Montecelo,8717,9787341,d2aea67a-dfc6-36ff-8329-42bde83b3bfd,Hospital Montecelo
+15623762,Hospital Montecelo,8717,13271216,67c324a1-3027-34ec-ad09-de0927a1295e,Hospital Montecelo
+2593203,Hospital Municipal de Ribadeo,8717,3441672,9ad2024a-274c-3c30-b539-863bfe9f2437,Hospital Municipal de Ribadeo
+2479512,Hospital Municipal de Ribadeo,8717,14057957,8c77e4fb-fbd6-3fc5-9964-470c03e79010,Hospital Municipal de Ribadeo
+5441537,Hospital Municipal de Ribadeo,8717,9730028,6070c5be-7f30-3a7b-931e-37cc2b7f2425,Hospital Municipal de Ribadeo
+2145896,Hospital Naval,8717,10683395,e159254a-4932-3bfe-bd00-bc69c1843e43,Hospital Naval
+2275916,Hospital Naval,8717,6917400,85a97e6c-ca4d-32ea-987d-da456f9da227,Hospital Naval
+4320978,Hospital Naval,8717,5897735,f098cbe0-1caf-3f38-8824-fdcdfe29c55e,Hospital Naval
+14461861,Hospital Nosa Señora de Fátima,8717,15223369,4a0ab27b-c7cf-39ba-91a8-ba1dcf613c78,Hospital Nosa Señora de Fátima
+13409415,Hospital Nosa Señora de Fátima,8717,5343390,87dcee70-2ac5-30fb-ae68-c11e6d1d90fe,Hospital Nosa Señora de Fátima
+4294707,Hospital Nosa Señora de Fátima,8717,6347736,ffdeea2f-9c72-3944-b4e0-e4b2b0750335,Hospital Nosa Señora de Fátima
+8456365,Hospital Profesor Novoa Santos,8717,7581794,0440b931-3705-3c76-9878-ff6058eb3ae4,Hospital Profesor Novoa Santos
+2484633,Hospital Profesor Novoa Santos,8717,14988222,632ed0cc-0b92-3d34-8be7-82e8b050a382,Hospital Profesor Novoa Santos
+13421324,Hospital Profesor Novoa Santos,8717,6458793,f4b5360b-c500-36be-82f3-a89b54b03a2a,Hospital Profesor Novoa Santos
+3804339,Hospital Provincial de Conxo,8717,8819338,d8e89e53-f474-30f1-9ec3-18ca265ecc5a,Hospital Provincial de Conxo
+12963748,Hospital Provincial de Conxo,8717,6645654,145f04ab-217d-322e-a984-2789b0631192,Hospital Provincial de Conxo
+1061624,Hospital Provincial de Conxo,8717,14129246,59f38e8e-2a71-3123-9dd7-385be160e592,Hospital Provincial de Conxo
+11529518,Hospital Provincial de Pontevedra,8717,439697,4c8381cb-0f18-3011-b92c-95f8d1adb1d4,Hospital Provincial de Pontevedra
+15304528,Hospital Provincial de Pontevedra,8717,1966938,977d5692-66b8-3531-9537-03ed72310ccc,Hospital Provincial de Pontevedra
+5704446,Hospital Provincial de Pontevedra,8717,9547717,2bb39fbf-38b7-3597-9acd-203dfe0e339c,Hospital Provincial de Pontevedra
+12666235,Hospital Psiquiátrico do Rebullón,8717,955401,f96066b2-fbe6-33fc-ba7e-03bf4a8fa5ab,Hospital Psiquiátrico do Rebullón
+15652930,Hospital Psiquiátrico do Rebullón,8717,13497680,15ea5cfd-a5d9-3e44-9251-1304b1575a52,Hospital Psiquiátrico do Rebullón
+4501022,Hospital Psiquiátrico do Rebullón,8717,13528810,52abd701-a023-3924-92f6-9c97ac7faeed,Hospital Psiquiátrico do Rebullón
+2957041,Hospital Quirónsalud A Coruña,8717,5835136,6a346821-ae09-3f4d-890e-82791fd472e2,Hospital Quirónsalud A Coruña
+9641660,Hospital Quirónsalud A Coruña,8717,16008126,9a8b4984-a12f-381c-a821-645fac6c002a,Hospital Quirónsalud A Coruña
+4866675,Hospital Quirónsalud A Coruña,8717,7455064,74fcb9c8-0246-3fdd-81ef-eb49f20ce090,Hospital Quirónsalud A Coruña
+14454453,Hospital Universitario Lucus Augusti,8717,14319531,d28b489a-9884-339f-8cc2-341ef6e1523c,Hospital Universitario Lucus Augusti
+4880277,Hospital Universitario Lucus Augusti,8717,13291329,63033adb-8ba8-3a9e-b6db-f1ace5f02981,Hospital Universitario Lucus Augusti
+3824682,Hospital Universitario Lucus Augusti,8717,11711468,72b74321-371a-3fa0-b6d6-cd2858bf99a7,Hospital Universitario Lucus Augusti
+728589,Hospital Virxe da Xunqueira,8717,3519800,13e8604c-5ef9-3424-ab87-226485ea7a47,Hospital Virxe da Xunqueira
+3534858,Hospital Virxe da Xunqueira,8717,11377365,5e46f294-a16a-398d-9205-21b44e6c07e4,Hospital Virxe da Xunqueira
+8189154,Hospital Virxe da Xunqueira,8717,8631732,9f325915-0742-3ed7-bd2f-313301ae4b3a,Hospital Virxe da Xunqueira
+8459392,Hospital Xeral,8717,8769934,ff06c0de-d2b8-321c-b5fc-a958dded8aef,Hospital Xeral
+3396312,Hospital Xeral,8717,7563807,fc698e53-a52e-368c-844f-4bb07dd7dd8e,Hospital Xeral
+11773792,Hospital Xeral,8717,3477328,925a69f4-21da-322d-9940-fd297995cff6,Hospital Xeral
+1394735,Hospital Xeral Juan Cardona,8717,14426045,cfa48373-cb32-3841-afdd-40de50bfa1c5,Hospital Xeral Juan Cardona
+16576370,Hospital Xeral Juan Cardona,8717,415473,1f602fae-a81d-3d22-9cdc-bae879e63829,Hospital Xeral Juan Cardona
+462131,Hospital Xeral Juan Cardona,8717,13152213,00da849a-007d-302b-808f-735f97b70090,Hospital Xeral Juan Cardona
+3144177,NORTHRIDGE HEALTH AND REHABILITATION,8717,10836503,93fa6b1f-7993-399a-9129-edb1eead5edf,NORTHRIDGE HEALTH AND REHABILITATION
+15862668,THREE RIVERS HOME HEALTH SERVICES  INC.,8717,6307600,f9e4a07e-28b7-3193-9fc7-9e7cff7c2150,THREE RIVERS HOME HEALTH SERVICES  INC.

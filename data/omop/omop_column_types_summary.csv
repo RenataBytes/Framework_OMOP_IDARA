@@ -1,0 +1,21 @@
+table_name,total_columns,concept_id_columns,patient_data_columns,identifier_columns,date_columns,source_value_columns,other_columns,total_rows,concept_columns_list,patient_data_columns_list
+care_site,6,1,0,2,0,2,1,98,place_of_service_concept_id,
+visit_occurrence_backup,17,5,0,5,4,3,0,367622,"visit_concept_id, visit_type_concept_id, visit_source_concept_id, admitted_from_concept_id, discharged_to_concept_id",
+observation_allergies,21,7,2,6,2,4,0,8854,"observation_concept_id, observation_type_concept_id, value_as_concept_id, qualifier_concept_id, unit_concept_id, observation_source_concept_id, obs_event_field_concept_id","value_as_number, value_as_string"
+condition_occurrence,16,4,0,5,4,2,1,228066,"condition_concept_id, condition_type_concept_id, condition_status_concept_id, condition_source_concept_id",
+measurement_observations,23,8,3,6,3,3,0,2999153,"measurement_concept_id, measurement_type_concept_id, operator_concept_id, value_as_concept_id, unit_concept_id, measurement_source_concept_id, unit_source_concept_id, meas_event_field_concept_id","value_as_number, range_low, range_high"
+visit_occurrence_backup_care_sites,17,5,0,5,4,3,0,367622,"visit_concept_id, visit_type_concept_id, visit_source_concept_id, admitted_from_concept_id, discharged_to_concept_id",
+procedure_occurrence_backup_before_visit_linking,16,4,1,5,4,2,0,963992,"procedure_concept_id, procedure_type_concept_id, modifier_concept_id, procedure_source_concept_id",quantity
+procedure_occurrence,16,4,1,5,4,2,0,963992,"procedure_concept_id, procedure_type_concept_id, modifier_concept_id, procedure_source_concept_id",quantity
+provider,13,4,0,2,0,3,4,98,"specialty_concept_id, gender_concept_id, specialty_source_concept_id, gender_source_concept_id",
+visit_occurrence,17,5,0,5,4,3,0,367622,"visit_concept_id, visit_type_concept_id, visit_source_concept_id, admitted_from_concept_id, discharged_to_concept_id",
+drug_exposure_backup_before_visit_linking,23,4,3,5,5,3,3,307944,"drug_concept_id, drug_type_concept_id, route_concept_id, drug_source_concept_id","refills, quantity, days_supply"
+payer_plan_period,17,8,0,2,2,5,0,1,"payer_concept_id, payer_source_concept_id, plan_concept_id, plan_source_concept_id, sponsor_concept_id, sponsor_source_concept_id, stop_reason_concept_id, stop_reason_source_concept_id",
+observation_period,5,1,0,2,2,0,0,5873,period_type_concept_id,
+person,18,6,0,4,1,4,3,5873,"gender_concept_id, race_concept_id, ethnicity_concept_id, gender_source_concept_id, race_source_concept_id, ethnicity_source_concept_id",
+observation_observations,21,7,2,6,2,4,0,1550191,"observation_concept_id, observation_type_concept_id, value_as_concept_id, qualifier_concept_id, unit_concept_id, observation_source_concept_id, obs_event_field_concept_id","value_as_number, value_as_string"
+condition_occurrence_backup_before_visit_linking,16,4,0,5,4,2,1,228066,"condition_concept_id, condition_type_concept_id, condition_status_concept_id, condition_source_concept_id",
+drug_exposure_immunizations,23,4,3,5,5,3,3,88286,"drug_concept_id, drug_type_concept_id, route_concept_id, drug_source_concept_id","refills, quantity, days_supply"
+device_exposure,19,5,1,7,4,2,0,34835,"device_concept_id, device_type_concept_id, device_source_concept_id, unit_concept_id, unit_source_concept_id",quantity
+measurement_imaging,23,8,3,6,3,3,0,443272,"measurement_concept_id, measurement_type_concept_id, operator_concept_id, value_as_concept_id, unit_concept_id, measurement_source_concept_id, unit_source_concept_id, meas_event_field_concept_id","value_as_number, range_low, range_high"
+drug_exposure,23,4,3,5,5,3,3,307944,"drug_concept_id, drug_type_concept_id, route_concept_id, drug_source_concept_id","refills, quantity, days_supply"

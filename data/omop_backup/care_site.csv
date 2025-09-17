@@ -1,0 +1,8 @@
+care_site_id,care_site_name,place_of_service_concept_id,location_id,care_site_source_value,place_of_service_source_value
+1,Hospital Clínico Universitario de Santiago,8717,1,org_001,Hospital
+2,Complexo Hospitalario Universitario de Vigo,8717,2,org_002,Hospital
+3,Complexo Hospitalario Universitario A Coruña,8717,3,org_003,Hospital
+4,Complexo Hospitalario Universitario de Ourense,8717,4,org_004,Hospital
+5,Hospital Universitario Lucus Augusti,8717,5,org_005,Hospital
+6,Hospital Provincial de Pontevedra,8717,6,org_006,Hospital
+7,Hospital Naval de Ferrol,8717,7,org_007,Hospital

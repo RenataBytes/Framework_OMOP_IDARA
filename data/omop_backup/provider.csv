@@ -1,0 +1,6 @@
+provider_id,provider_name,npi,dea,specialty_concept_id,care_site_id,year_of_birth,gender_concept_id,provider_source_value,specialty_source_value,specialty_source_concept_id,gender_source_value,gender_source_concept_id
+1,Dr. Carlos Fernández López,,,38004446,,,0,prov_001,Gastroenterology,0,M,0
+2,Dra. María González Rodríguez,,,38004446,,,0,prov_002,Gastroenterology,0,F,0
+3,Dr. José Martínez Pérez,,,38004446,,,0,prov_003,Gastroenterology,0,F,0
+4,Dra. Ana López García,,,38004446,,,0,prov_004,Internal Medicine,0,M,0
+5,Dr. Manuel Sánchez Díaz,,,38004446,,,0,prov_005,General Surgery,0,F,0

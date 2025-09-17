@@ -1,0 +1,12 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,BASE_COST,REASONCODE,REASONDESCRIPTION
+2024-04-26 12:01:42,2024-04-26 12:01:42,patient_001,enc_003,43235,Upper endoscopy,1907.38,,
+2023-12-26 12:01:42,2023-12-26 12:01:42,patient_003,enc_011,43239,Esophagogastroduodenoscopy with biopsy,1580.53,,
+2025-05-08 12:01:42,2025-05-08 12:01:42,patient_008,enc_026,45385,Colonoscopy with polypectomy,1069.3,,
+2024-11-07 12:01:42,2024-11-07 12:01:42,patient_011,enc_034,45378,Colonoscopy,1439.5,,
+2025-01-13 12:01:42,2025-01-13 12:01:42,patient_012,enc_037,91110,Capsule endoscopy,1071.65,,
+2023-11-14 12:01:42,2023-11-14 12:01:42,patient_013,enc_039,45330,Flexible sigmoidoscopy,762.65,,
+2025-05-14 12:01:42,2025-05-14 12:01:42,patient_018,enc_052,43260,Endoscopic retrograde cholangiopancreatography,1126.96,,
+2023-09-16 12:01:42,2023-09-16 12:01:42,patient_019,enc_053,43239,Esophagogastroduodenoscopy with biopsy,1039.65,,
+2024-05-11 12:01:42,2024-05-11 12:01:42,patient_020,enc_059,43239,Esophagogastroduodenoscopy with biopsy,453.58,,
+2024-06-14 12:01:42,2024-06-14 12:01:42,patient_021,enc_061,91110,Capsule endoscopy,1755.49,,
+2024-07-09 12:01:42,2024-07-09 12:01:42,patient_028,enc_078,45330,Flexible sigmoidoscopy,1096.88,,

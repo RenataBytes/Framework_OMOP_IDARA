@@ -1,0 +1,8 @@
+location_id,address_1,address_2,city,state,zip,county,location_source_value,country_concept_id,country_source_value,latitude,longitude
+1,"Rúa do Hospital, 36",,Santiago de Compostela,A Coruña,15700,,org_001,4330435,Spain,42.448557,-7.094325
+2,"Rúa do Hospital, 43",,Vigo,Pontevedra,36200,,org_002,4330435,Spain,42.956037,-7.846794
+3,"Rúa do Hospital, 40",,A Coruña,A Coruña,15001,,org_003,4330435,Spain,43.467012,-6.980747
+4,"Rúa do Hospital, 29",,Ourense,Ourense,32003,,org_004,4330435,Spain,43.614975,-7.366496
+5,"Rúa do Hospital, 41",,Lugo,Lugo,27001,,org_005,4330435,Spain,42.49916,-7.278045
+6,"Rúa do Hospital, 29",,Pontevedra,Pontevedra,36002,,org_006,4330435,Spain,42.13947,-8.557107
+7,"Rúa do Hospital, 6",,Ferrol,A Coruña,15400,,org_007,4330435,Spain,42.249073,-8.69872

@@ -1,0 +1,6 @@
+Id,ORGANIZATION,NAME,GENDER,SPECIALITY,ADDRESS,CITY,STATE,ZIP,LAT,LON,UTILIZATION
+prov_001,org_001,Dr. Carlos Fernández López,M,Gastroenterology,"Rúa do Hospital, 36",Santiago de Compostela,A Coruña,15700,42.448557,-7.094325,312
+prov_002,org_006,Dra. María González Rodríguez,F,Gastroenterology,"Rúa do Hospital, 29",Pontevedra,Pontevedra,36002,42.13947,-8.557107,269
+prov_003,org_001,Dr. José Martínez Pérez,F,Gastroenterology,"Rúa do Hospital, 36",Santiago de Compostela,A Coruña,15700,42.448557,-7.094325,312
+prov_004,org_001,Dra. Ana López García,M,Internal Medicine,"Rúa do Hospital, 36",Santiago de Compostela,A Coruña,15700,42.448557,-7.094325,205
+prov_005,org_006,Dr. Manuel Sánchez Díaz,F,General Surgery,"Rúa do Hospital, 29",Pontevedra,Pontevedra,36002,42.13947,-8.557107,299

@@ -1,0 +1,8 @@
+Id,NAME,ADDRESS,CITY,STATE,ZIP,LAT,LON,PHONE,REVENUE,UTILIZATION
+org_001,Hospital Clínico Universitario de Santiago,"Rúa do Hospital, 36",Santiago de Compostela,A Coruña,15700,42.448557,-7.094325,981578634,15333564.22,168
+org_002,Complexo Hospitalario Universitario de Vigo,"Rúa do Hospital, 43",Vigo,Pontevedra,36200,42.956037,-7.846794,981432711,48001584.34,163
+org_003,Complexo Hospitalario Universitario A Coruña,"Rúa do Hospital, 40",A Coruña,A Coruña,15001,43.467012,-6.980747,981547470,43222766.79,190
+org_004,Complexo Hospitalario Universitario de Ourense,"Rúa do Hospital, 29",Ourense,Ourense,32003,43.614975,-7.366496,981597732,28002790.29,113
+org_005,Hospital Universitario Lucus Augusti,"Rúa do Hospital, 41",Lugo,Lugo,27001,42.49916,-7.278045,981608136,35069937.48,120
+org_006,Hospital Provincial de Pontevedra,"Rúa do Hospital, 29",Pontevedra,Pontevedra,36002,42.13947,-8.557107,981384913,23433901.46,188
+org_007,Hospital Naval de Ferrol,"Rúa do Hospital, 6",Ferrol,A Coruña,15400,42.249073,-8.69872,981827659,16112210.66,104

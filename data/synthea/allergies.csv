@@ -1,0 +1,10 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,SYSTEM,DESCRIPTION,TYPE,CATEGORY,REACTION1,DESCRIPTION1,SEVERITY1
+2023-09-26 12:01:42,,patient_001,enc_001,416098002,SNOMED-CT,Allergy to drug,allergy,medication,Rash,Allergic reaction,severe
+2024-01-10 12:01:42,,patient_002,enc_005,387207008,SNOMED-CT,Allergy to penicillin,allergy,medication,Nausea,Allergic reaction,moderate
+2025-07-16 12:01:42,,patient_003,enc_008,416098002,SNOMED-CT,Allergy to drug,allergy,medication,Nausea,Allergic reaction,severe
+2025-01-13 12:01:42,,patient_012,enc_037,294505008,SNOMED-CT,Allergy to aspirin,allergy,medication,Difficulty breathing,Allergic reaction,moderate
+2023-11-14 12:01:42,,patient_013,enc_039,416098002,SNOMED-CT,Allergy to drug,allergy,medication,Difficulty breathing,Allergic reaction,severe
+2024-04-13 12:01:42,,patient_014,enc_041,416098002,SNOMED-CT,Allergy to drug,allergy,medication,Rash,Allergic reaction,moderate
+2024-05-14 12:01:42,,patient_015,enc_044,419511003,SNOMED-CT,Allergy to iodine,allergy,medication,Difficulty breathing,Allergic reaction,moderate
+2024-02-20 12:01:42,,patient_020,enc_057,387207008,SNOMED-CT,Allergy to penicillin,allergy,medication,Nausea,Allergic reaction,moderate
+2024-04-18 12:01:42,,patient_021,enc_060,294505008,SNOMED-CT,Allergy to aspirin,allergy,medication,Swelling,Allergic reaction,mild
